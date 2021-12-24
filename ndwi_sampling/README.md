@@ -1,4 +1,8 @@
-Notebooks for generating NDWI median images for simplified Agro-Ecalogical Zones (AEZs) and pick stratified random samples.
+Notebooks for generating NDWI median images for simplified Agro-Ecological Zones (AEZs) and pick stratified random samples.
+
+The stratified random samples were inspected by analysts as part of the WOfS validation effort.
+
+*Update December 2021: These files have been ported from the* `ndwi_sampling` *branch of the *`deafrica-sandbox-notebooks` *repository and may need updating to be compatible with current Sandbox packages.*
 
 Required:
 1. Shapefiles for the simplified AEZs, excluding large permanent water bodies.
