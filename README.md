@@ -19,19 +19,21 @@ See folder README for notebook details.
 ## 02_Validation_data
 Raw and pre-processed data collected from the validation analysts.
  
- - `CEO_raw_data` folder: Validation data exported from Collect Earth Online. Split by Implementing Partner organisation.
+ - `CEO_raw_data` folder: Validation data exported from Collect Earth Online. Split by Implementing Partner organisation. Previously named `CEO`.
  - `Processed` folder: Results of `02_Validation_notebooks/01_Inspect_CEO` pre-processing notebook 
  - `AEZ_shapefiles` folder: AEZ shapefiles used in the validation notebooks
  
 ## 02_Validation_notebooks
 Series of notebooks conducting the pre-processing, analysis, and plotting of WOfS data.
  
-Re-running some of these notebooks will require a file path update.
-  
+Re-running some of these notebooks will require a file path update to account for folder name changes. Most notably `Results` --> `02_Validation_results` and `Data` --> `02_Validation_data`.
+
+- `Plots` folder: Seasonal accuracy plots per AEZ; AEZ overall/producer's/user's accuracy maps per AEZ for provisional (beta) Collection 2 WOfS and non-provisional (production) Collection 2 WOfS; accuracy difference plot between the two
+
 See folder README for notebook details.
  
 ## 03_Figures_for_paper
-Figures, and code/files to produce figures for academic or general use. Folder README contains a description of parent and output files. Inkscape can be used to edit the SVG files.
+Figures, and code/files to produce figures for academic or general use. Folder README contains a description of parent and output files. Inkscape (open source software) can be used to edit the SVG files.
 
 
 ## Repository convention
