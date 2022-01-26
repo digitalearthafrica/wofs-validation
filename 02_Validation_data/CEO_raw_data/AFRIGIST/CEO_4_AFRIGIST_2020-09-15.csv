@@ -1,0 +1,173 @@
+PLOT_ID,SAMPLE_ID,LON,LAT,FLAGGED,ANALYSES,USER_ID,COLLECTION_TIME,ANALYSIS_DURATION,IMAGERY_TITLE,SENTINEL2MOSAICYEARMONTH,GEEIMAGECOLLECTIONASSETID,GEEIMAGECOLLECTIONENDDATE,GEEIMAGECOLLECTIONSTARTDATE,PL_PLOTID,"ENTER MONTHS[1-12] IN 2018, WATER WAS OBSERVED?","ENTER MONTHS[1-12] IN 2018, WATER WAS NOT OBSERVED?","ENTER MONTHS[1-12] IN 2018, IMAGE WAS BAD?","ENTER MONTHS[1-12] IN 2018, THAT YOU ARE UNSURE IF YOU OBSERVE WATER OR NOT? ",WHAT IS THE FEATURE?,COMMENT
+137483360,514485768,-13.15710375,8.894823723,FALSE,1,gharafat@gmail.com,02:45.2,358,Sentinel 2,2018 - 2018,,,,1,1-Dec,0,6-Sep,0,Open water - marine,NA
+137483361,514485769,6.88450211,8.891968391,FALSE,1,gharafat@gmail.com,07:52.5,314.6,Sentinel 2,2018 - 2018,,,,2,1-Dec,0,4-Sep,0,Open water - freshwater,NA
+137483362,514485770,-3.870083902,8.717833849,FALSE,1,gharafat@gmail.com,13:51.8,365.7,Sentinel 2,2018 - 2018,,,,3,1-Dec,0,5-Sep,0,Open water - freshwater,NA
+137483363,514485771,-12.51131246,8.694764608,FALSE,1,gharafat@gmail.com,33:29.0,4732,Sentinel 2,2018 - 2018,,,,4,1-Dec,0,5-Oct,0,Open water - Constructed (e.g. aquaculture),constructed reservoir
+137483364,514485772,-13.24074259,8.657428661,FALSE,1,gharafat@gmail.com,11:35.2,2293.5,Sentinel 2,2018 - 2018,,,,5,1-Dec,0,6-Oct,0,Open water - marine,NA
+137483365,514485773,-13.04112872,8.606305666,FALSE,1,gharafat@gmail.com,57:59.3,2791.4,Sentinel 2,2018 - 2018,,,,6,1-Dec,0,6-Sep,0,Wetlands - marine (e.g. mangroves),NA
+137483366,514485774,-12.95624618,8.594179804,FALSE,1,gharafat@gmail.com,48:03.3,3011.3,Sentinel 2,2019 - 2019,,,,7,"1-10,12",11,6-Sep,0,Wetlands - marine (e.g. mangroves),NA
+137483367,514485775,-11.30678887,8.482449369,FALSE,1,gharafat@gmail.com,58:11.7,667.8,Sentinel 2,2018 - 2018,,,,8,1-Dec,0,"6-8,10",0,Open water - freshwater,NA
+137483368,514485776,9.880886666,8.477933275,FALSE,1,gharafat@gmail.com,11:39.1,5235.5,Mapbox Satellite,,,,,9,0,1-Dec,3-Oct,0,Cultivated (Cropland/ Plantation)  ,na
+137483369,514485777,-2.361164711,8.450600124,FALSE,1,gharafat@gmail.com,26:09.6,879.5,Sentinel 2,2018 - 2018,,,,10,1-Dec,0,4-Oct,0,Open water - freshwater,NA
+137483370,514485778,10.06371059,8.409247461,FALSE,1,gharafat@gmail.com,42:48.0,828.4,Sentinel 2,2018 - 2018,,,,11,1-Dec,0,4-Oct,0,Open water - freshwater,NA
+137483371,514485779,4.551320653,8.405682778,FALSE,1,gharafat@gmail.com,51:13.0,462.4,Sentinel 2,2018 - 2018,,,,12,1-Dec,0,"3-5,7-10",0,Open water - freshwater,NA
+137483372,514485780,6.52320722,8.38453298,FALSE,1,gharafat@gmail.com,54:39.1,215.1,Sentinel 2,2018 - 2018,,,,13,1-Dec,0,"4,6,7-10",0,Open water - freshwater,NA
+137483373,514485781,10.02639958,8.338197448,FALSE,1,gharafat@gmail.com,57:25.0,174.9,Sentinel 2,2018 - 2018,,,,14,1-Dec,0,3-Oct,0,Open water - freshwater,NA
+137483374,514485782,-0.780732761,8.33083178,FALSE,1,gharafat@gmail.com,02:29.0,313,Sentinel 2,2018 - 2018,,,,15,1-Dec,0,"3,5-10",0,Wetlands - marine (e.g. mangroves),NA
+137483375,514485783,8.332479995,8.322991055,FALSE,1,gharafat@gmail.com,48:05.4,49545.4,Sentinel 2,2018 - 2018,,,,16,1-Dec,0,3-Oct,0,Open water - freshwater,NA
+137483376,514485784,2.490509525,8.305646966,FALSE,1,gharafat@gmail.com,46:56.1,21532.4,Bing Basemaps,,,,,17,0,1-Dec,6-Nov,0,Forest/woodlands,NA
+137483377,514485785,-2.281567902,8.28711575,FALSE,1,gharafat@gmail.com,59:28.0,761.9,Sentinel 2,2018 - 2018,,,,18,1-Dec,0,4-Nov,0,Open water - freshwater,NA
+137483378,514485786,-2.331004982,8.277137755,FALSE,1,gharafat@gmail.com,11:53.8,755.7,Sentinel 2,2018 - 2018,,,,19,1-Dec,0,"4,6-10",0,Open water - freshwater,NA
+137483379,514485787,-10.69333378,8.244117098,FALSE,1,gharafat@gmail.com,31:59.3,1215.4,Sentinel 2,2018 - 2018,,,,20,1-Dec,0,3-Nov,0,Open water - freshwater,NA
+137483380,514485788,1.723457465,8.195659983,FALSE,1,gharafat@gmail.com,38:12.8,3877.9,Sentinel 2,2018 - 2018,,,,21,0,1-Dec,"2,4-11",0,Cultivated (Cropland/ Plantation)  ,NA
+137483381,514485789,5.610020395,8.180458937,FALSE,1,chabijos@gmail.com,42:44.4,991.1,Sentinel 2,2018 - 2018,,,,22,1-Dec,0,2-Nov,0,Open water - freshwater,No comments
+137483382,514485790,9.716718248,8.178796357,FALSE,1,chabijos@gmail.com,26:27.0,1175.2,Sentinel 2,2018 - 2018,,,,23,"1,2,9,10,11,12",3,3-Dec,"4,5,6,7,8",Open water - freshwater,"in months 11 and 12, only the southern part of the image is affected by cloud cover"
+137483383,514485791,-12.94691843,8.152670984,FALSE,1,chabijos@gmail.com,38:26.1,727.9,Sentinel 2,2018 - 2018,,,,24,1-Dec,0,2-Dec,0,Open water - marine,Only month 1 has very little cloud cover
+137483384,514485792,-0.323362036,8.146496138,FALSE,1,chabijos@gmail.com,27:40.0,2962.7,Sentinel 2,2018 - 2018,,,,25,"1,2,3,4,9,10,11,12","6,8",1-Dec,"5,7",Open water - freshwater,no comments
+137483385,514485793,0.13773979,8.095913392,FALSE,1,chabijos@gmail.com,56:23.4,599.4,Sentinel 2,2018 - 2018,,,,26,1-Dec,0,1-Dec,7,Open water - freshwater,"in month 7, image was not displaying at the point"
+137483386,514485794,7.353066137,8.06646901,FALSE,1,chabijos@gmail.com,32:35.1,2180.6,Sentinel 2,2018 - 2018,,,,27,1-Dec,"5,7",1-Dec,"5,7",Open water - freshwater,Months 1 and 12 have little cloud cover. Image is not displaying for points 5 and 7
+137483387,514485795,-0.232571926,8.057446151,FALSE,1,chabijos@gmail.com,43:27.7,661.6,Sentinel 2,2018 - 2018,,,,28,"1-6, 8-12",7,1-Dec,7,Open water - freshwater,Image at month 7 was not displaying
+137483388,514485796,7.662747471,8.025867682,FALSE,1,chabijos@gmail.com,17:12.6,1110.9,Sentinel 2,2018 - 2018,,,,29,"1,2,6,9,10,11",12,2-Nov,"3,4,5,7,8",Open water - freshwater,Image too cloud covered and it is not displaying for some months like 7 for example
+137483389,514485797,7.752293881,8.010910294,FALSE,1,chabijos@gmail.com,33:40.7,873.6,Sentinel 2,2018 - 2018,,,,30,"1-3, 5-12",4,2-Nov,4,Open water - freshwater,"In month 4, image was not displaying at the point"
+137483390,514485798,10.10444177,7.973163074,FALSE,1,chabijos@gmail.com,21:03.2,1072.2,Sentinel 2,2018 - 2018,,,,31,0,1-Dec,1-Nov,0,Shrubs,No comments
+137483391,514485799,-0.089857335,7.972213503,FALSE,1,chabijos@gmail.com,59:44.2,2207.6,Sentinel 2,2018 - 2018,,,,32,"1,2,3,9,10,11,12","4,5,6,7,8",2-Nov,0,Open water - freshwater,
+137483392,514485800,11.28378042,7.969602191,FALSE,2,gharafat@gmail.com,42:29.5,6034.2,Sentinel 2,2018 - 2018,,,,33,0,1-Dec,2-Nov,0,Shrubs,
+137483392,514485800,11.28378042,7.969602191,FALSE,2,gharafat@gmail.com,42:29.5,6034.2,Sentinel 2,2018 - 2018,,,,33,0,1-Dec,4-Oct,0,Forest/woodlands,NA
+137483393,514485801,4.551631578,7.954884194,FALSE,1,chabijos@gmail.com,34:14.4,2931.8,Sentinel 2,2018 - 2018,,,,34,1-Dec,0,2-Nov,0,Open water - freshwater,
+137483394,514485802,7.055510879,7.933520275,FALSE,1,chabijos@gmail.com,14:51.6,2322.5,Sentinel 2,2018 - 2018,,,,35,"1-7, 9-11",12,2-Nov,8,Open water - freshwater,"In month 8, there was no image, so not too sure"
+137483395,514485803,8.099286219,7.919752988,FALSE,1,gharafat@gmail.com,54:19.0,197.8,Sentinel 2,2018 - 2018,,,,36,"1-3,5-12",0,4-Oct,4,Open water - freshwater,NA
+137483396,514485804,8.143126649,7.896254689,FALSE,1,gharafat@gmail.com,51:02.5,431.5,Sentinel 2,2018 - 2018,,,,37,6-Oct,"1-5,11,12",3-Oct,0,Open water - freshwater,river bed
+137483397,514485805,-11.0711077,7.875605744,FALSE,1,gharafat@gmail.com,43:48.8,1846.9,Sentinel 2,2018 - 2018,,,,38,"1,2,4,5,12",0,"3,6-11","3,6-11",Open water - freshwater,river bed
+137483398,514485806,8.260967237,7.840955741,FALSE,1,gharafat@gmail.com,08:30.1,7992,Sentinel 2,2018 - 2018,,,,39,"1-3,5,7,10",0,3-Oct,"4,6,8,9",Open water - freshwater,NA
+137483399,514485807,-12.27874053,7.795630183,FALSE,1,gharafat@gmail.com,27:24.0,1145.6,Sentinel 2,2018 - 2018,,,,40,1-Dec,0,2-Nov,0,Open water - freshwater,NA
+137483400,514485808,8.78798517,7.789697873,FALSE,1,chabijos@gmail.com,23:41.6,1673.6,Sentinel 2,2018 - 2018,,,,41,"1-7, 9-12",0,2-Nov,8,Open water - freshwater,"In month 8, there was no image displaying"
+137483401,514485809,0.022075677,7.783765644,FALSE,1,chabijos@gmail.com,38:49.6,793.9,Sentinel 2,2018 - 2018,,,,42,1-Dec,0,1-Dec,0,Open water - freshwater,
+137483402,514485810,8.41860623,7.774274249,FALSE,1,chabijos@gmail.com,04:32.9,1429.2,Sentinel 2,2018 - 2018,,,,43,"1-7,10-12",0,2-Nov,"8,9",Open water - freshwater,The image was not displaying for months 8 and 9
+137483403,514485811,6.748938795,7.76929135,FALSE,1,gharafat@gmail.com,04:07.2,333.9,Sentinel 2,2018 - 2018,,,,44,1-Dec,0,2-Oct,0,Open water - freshwater,NA
+137483404,514485812,-10.95793099,7.729667485,FALSE,1,gharafat@gmail.com,11:57.1,1407.6,Sentinel 2,2018 - 2018,,,,45,0,1-Dec,3-Dec,0,Forest/woodlands,NA
+137483405,514485813,3.237662383,7.636435158,FALSE,1,chabijos@gmail.com,23:37.9,2899.3,Sentinel 2,2018 - 2018,,,,46,0,1-Dec,2-Nov,0,Shrubs,
+137483406,514485814,-13.04765814,7.632877067,FALSE,1,chabijos@gmail.com,18:20.6,1535.5,Sentinel 2,2018 - 2018,,,,47,"1-6,10-12",7,1-Dec,"8,9",Open water - marine,"in month 8, there was no image, month 9, the point was cloud covered"
+137483407,514485815,1.787508022,7.602041477,FALSE,1,chabijos@gmail.com,41:54.9,1300.9,Sentinel 2,2018 - 2018,,,,48,0,1-Dec,1-Dec,0,Shrubs,
+137483408,514485816,0.033890829,7.543934105,FALSE,1,chabijos@gmail.com,52:09.0,500.7,Sentinel 2,2018 - 2018,,,,49,"1-3,9-12",4-Aug,1-Dec,0,Open water - freshwater,
+137483409,514485817,1.336666723,7.526621951,FALSE,1,chabijos@gmail.com,11:57.5,1075,Sentinel 2,2018 - 2018,,,,50,"1-3,10-12","4,5,6,8",1-Dec,"7,9",Open water - freshwater,
+137483410,514485818,1.45077621,7.507650501,FALSE,1,chabijos@gmail.com,29:28.9,938,Sentinel 2,2018 - 2018,,,,51,1-Dec,0,1-Dec,"7,9",Open water - freshwater,"In months 7 and 9, the image was not displaying at the point"
+137483411,514485819,-12.28620273,7.489628371,FALSE,1,gharafat@gmail.com,49:08.1,521.5,Sentinel 2,2018 - 2018,,,,52,1-Dec,0,2-Nov,0,Open water - freshwater,NA
+137483412,514485820,-7.024107451,7.477772101,FALSE,1,gharafat@gmail.com,37:36.7,893.4,Sentinel 2,2018 - 2018,,,,53,1-Dec,0,4-Nov,0,Open water - freshwater,NA
+137483413,514485821,6.710695016,7.393601576,FALSE,1,gharafat@gmail.com,57:37.9,8415.1,Sentinel 2,2018 - 2018,,,,54,1-Dec,0,3-Nov,0,Open water - freshwater,NA
+137483414,514485822,6.701989115,7.379377119,FALSE,1,gharafat@gmail.com,16:38.9,1155,Sentinel 2,2018 - 2018,,,,55,1-Dec,0,2-Nov,0,Open water - freshwater,NA
+137483415,514485823,9.32339808,7.36017481,FALSE,1,gharafat@gmail.com,50:38.4,13338.7,Sentinel 2,2018 - 2018,,,,56,1-Dec,0,3-Oct,0,Open water - freshwater,NA
+137483416,514485824,3.203771554,7.292617547,FALSE,1,gharafat@gmail.com,11:30.5,1268.2,Sentinel 2,2018 - 2018,,,,57,1-Dec,0,2-Dec,0,Open water - freshwater,NA
+137483417,514485825,-3.645285103,7.163219689,FALSE,1,gharafat@gmail.com,23:31.5,737.2,Sentinel 2,2018 - 2018,,,,58,1-Dec,0,4-Dec,0,Open water - freshwater,NA
+137483418,514485826,2.44200522,7.161797934,FALSE,1,gharafat@gmail.com,55:59.8,1964.5,Sentinel 2,2018 - 2018,,,,59,1-Dec,0,2-Nov,0,Open water - freshwater,NA
+137483419,514485827,-11.64631901,7.159428352,FALSE,1,gharafat@gmail.com,01:10.6,324.9,Sentinel 2,2018 - 2018,,,,60,1-Dec,0,"2,3,5-11",0,Open water - freshwater,NA
+137483420,514485828,-11.75607555,7.130046536,FALSE,1,gharafat@gmail.com,07:52.7,417.6,Sentinel 2,2018 - 2018,,,,61,1-Dec,0,"2,3,5-11",0,Open water - marine,NA
+137483421,514485829,4.001916117,7.128624882,FALSE,1,chabijos@gmail.com,44:57.2,1949.4,Sentinel 2,2018 - 2018,,,,62,0,1-Dec,1-Dec,0,Cultivated (Cropland/ Plantation)  ,
+137483422,514485830,9.315624954,7.095928019,FALSE,1,chabijos@gmail.com,08:23.6,1426.7,Sentinel 2,2018 - 2018,,,,63,"1,2,5,6,8,9,10,11,12","3,4,7",1-Dec,"3,4,7",Open water - freshwater,"Though the point falls on a river, cloud obstructed the point in month 3,4 and 7"
+137483423,514485831,10.86403163,6.975348189,FALSE,1,chabijos@gmail.com,25:18.3,1036,Sentinel 2,2018 - 2018,,,,64,0,1-Dec,1-Dec,0,Forest/woodlands,
+137483424,514485832,-10.94207381,6.965873656,FALSE,1,chabijos@gmail.com,28:29.8,539.4,Sentinel 2,2018 - 2018,,,,65,"1-8,10","9,11,12",1-Dec,"9,11,12",Open water - freshwater,"In months 9, 11, 12 the cloud is cloud covered or absent at the point"
+137483425,514485833,0.032025279,6.955925596,FALSE,1,gharafat@gmail.com,49:27.5,1530,Sentinel 2,2018 - January,,,,66,1-Dec,0,2-Oct,0,Open water - freshwater,NA
+137483426,514485834,-11.521949,6.940530193,FALSE,1,gharafat@gmail.com,05:20.2,981.5,2-Feb2018 Sentinel2,,COPERNICUS/S2,5/02/2018,1/02/2018,67,1-Dec,0,"2,4-12",0,Open water - marine,NA
+137483427,514485835,0.048504305,6.868059943,FALSE,1,gharafat@gmail.com,27:51.6,1380.2,Sentinel 2,2018 - August,,,,68,1-Dec,0,"2,5-12",0,Open water - freshwater,NA
+137483428,514485836,6.624879707,6.791338449,FALSE,1,gharafat@gmail.com,41:23.2,840.4,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,69,1-Dec,0,3-Nov,0,Open water - freshwater,NA
+137483429,514485837,-6.989283847,6.782341032,FALSE,1,gharafat@gmail.com,46:28.6,334.1,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,70,1-Dec,0,2-Dec,0,Open water - freshwater,NA
+137483430,514485838,-0.558421362,6.776658537,FALSE,1,gharafat@gmail.com,26:53.8,1245.5,1-Jan2018 Sentinel2,,COPERNICUS/S2,5/01/2018,1/01/2018,71,1-Dec,0,"4,7-10",0,Open water - freshwater,NA
+137483431,514485839,-0.451774075,6.731437669,FALSE,1,gharafat@gmail.com,17:02.9,574.8,Bing Basemaps,,COPERNICUS/S2,5/09/2018,1/09/2018,72,1-Dec,0,4-Oct,0,Open water - freshwater,NA
+137483432,514485840,0.237235801,6.723388311,FALSE,1,gharafat@gmail.com,06:24.7,235.4,Bing Basemaps,,COPERNICUS/S2,5/02/2018,1/02/2018,73,1-Dec,0,"3,5,6,9-12",0,Open water - freshwater,NA
+137483433,514485841,1.785642472,6.629409791,FALSE,1,gharafat@gmail.com,12:22.1,382.6,Sentinel 2,2018 - March,,,,74,1-Dec,0,"2-4,6-12",0,Open water - freshwater,NA
+137483434,514485842,-8.893699682,6.573315073,FALSE,1,gharafat@gmail.com,20:39.7,522.9,Sentinel 2,2018 - August,,,,75,0,1-Dec,1-Dec,0,Forest/woodlands,NA
+137483435,514485843,6.65970331,6.533792119,FALSE,1,gharafat@gmail.com,39:16.1,1139.6,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,76,1-Dec,0,3-Dec,0,Open water - freshwater,NA
+137483436,514485844,-6.964409844,6.518409756,FALSE,1,gharafat@gmail.com,44:09.4,412.9,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,77,1-Dec,0,2-Dec,0,Open water - freshwater,NA
+137483437,514485845,3.352704645,6.51225694,FALSE,1,gharafat@gmail.com,05:27.0,12101.5,1-Jan2018 Sentinel2,,COPERNICUS/S2,5/01/2018,1/01/2018,78,0,1-Dec,"2-4,6-12",0,Urban (Settlements/ roads)  ,NA
+137483438,514485846,2.452887596,6.497111858,FALSE,1,gharafat@gmail.com,16:09.6,7873.4,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,79,1-Dec,0,2-Dec,0,Open water - marine,NA
+137483439,514485847,-1.445490485,6.491195931,FALSE,1,gharafat@gmail.com,37:08.1,1289.5,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,80,1-Dec,0,2-Dec,0,Open water - freshwater,lake
+137483440,514485848,-2.051172452,6.48196722,FALSE,1,gharafat@gmail.com,29:42.9,3441.3,1-Jan2018 Sentinel2,,COPERNICUS/S2,5/01/2018,1/01/2018,81,"6,11","1,2","3-5,7-10,12","3-5,7-10,12",Open water - freshwater,NA
+137483441,514485849,5.353818166,6.479600911,FALSE,1,gharafat@gmail.com,35:54.5,402.7,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,82,0,1-Dec,2-Nov,0,Urban (Settlements/ roads)  ,NA
+137483442,514485850,2.583787035,6.459487715,FALSE,1,gharafat@gmail.com,40:39.1,1650.1,1-Jan2018 Sentinel2,,COPERNICUS/S2,5/01/2018,1/01/2018,83,1-Dec,0,2-Dec,0,Open water - marine,NA
+137483443,514485851,-7.388822516,6.458541231,FALSE,1,gharafat@gmail.com,24:48.9,2681.2,1-Jan2018 Sentinel2,,COPERNICUS/S2,5/01/2018,1/01/2018,84,1-Dec,0,2-Dec,0,Open water - freshwater,NA
+137483444,514485852,3.590873222,6.422102899,FALSE,1,gharafat@gmail.com,09:40.5,13523,11-Nov2018 Sentinel2,,COPERNICUS/S2,5/11/2018,1/11/2018,85,1-Dec,0,"2,4-12",0,Open water - marine,NA
+137483445,514485853,-7.29150298,6.411692414,FALSE,1,gharafat@gmail.com,13:06.2,237.1,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,86,1-Dec,0,1-Dec,0,Open water - freshwater,NA
+137483446,514485854,3.12448567,6.411455814,FALSE,1,gharafat@gmail.com,33:02.8,200.1,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,87,1-Dec,0,"2,4,6,11,12",0,Open water - marine,NA
+137483447,514485855,3.185116052,6.409089825,FALSE,1,gharafat@gmail.com,14:13.4,457,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,88,1-Dec,0,"2,4,6,7,9,11,12",0,Open water - marine,NA
+137483448,514485856,1.930533538,6.397496631,FALSE,1,gharafat@gmail.com,19:49.4,368,2-Feb2018 Sentinel2,,COPERNICUS/S2,5/02/2018,1/02/2018,89,1-Dec,0,2-Dec,0,Open water - freshwater,NA
+137483449,514485857,4.181008937,6.392055016,FALSE,1,gharafat@gmail.com,26:16.8,419.4,1-Jan2018 Sentinel2,,COPERNICUS/S2,5/01/2018,1/01/2018,90,1-Dec,0,2-Dec,0,Open water - marine,NA
+137483450,514485858,-7.294923156,6.391345245,FALSE,1,gharafat@gmail.com,52:40.9,1616.1,6-June2018 Sentinel2,,COPERNICUS/S2,5/06/2018,1/06/2018,91,1-Dec,0,1-Dec,0,Open water - freshwater,NA
+137483451,514485859,-3.541747066,6.371472027,FALSE,1,gharafat@gmail.com,27:13.2,759.9,2-Feb2018 Sentinel2,,COPERNICUS/S2,5/02/2018,1/02/2018,92,1-Dec,0,1-Dec,0,Open water - freshwater,NA
+137483452,514485860,-0.019588277,6.347577839,FALSE,1,gharafat@gmail.com,22:01.5,14123,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,93,"1-4,11,12","6,8",2-Dec,"5,6,10",Open water - freshwater,NA
+137483453,514485861,-7.024107451,6.326760022,FALSE,1,gharafat@gmail.com,22:46.8,3679.8,1-Jan2018 Sentinel2,,COPERNICUS/S2,5/01/2018,1/01/2018,94,"1,8,10,11","5,7",2-Dec,"2,4,6,9,10,12",Open water - freshwater,NA
+137483454,514485862,6.738678269,6.269988296,FALSE,1,gharafat@gmail.com,33:05.8,653.2,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,95,1-Dec,0,3-Nov,0,Open water - freshwater,NA
+137483455,514485863,-5.122179016,6.259580801,FALSE,1,gharafat@gmail.com,56:13.1,5021.6,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,96,1-Dec,0,3-Dec,0,Open water - freshwater,NA
+137483456,514485864,6.728417743,6.254850188,FALSE,1,gharafat@gmail.com,58:24.8,165.9,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,97,1-Dec,0,3-Nov,0,Open water - freshwater,NA
+137483457,514485865,0.092344735,6.246571716,FALSE,1,gharafat@gmail.com,20:20.9,4950.3,4-April2018 Sentinel2,,COPERNICUS/S2,5/04/2018,1/04/2018,98,1-Dec,0,2-Dec,0,Open water - freshwater,NA
+137483458,514485866,4.905464267,6.062112795,FALSE,1,gharafat@gmail.com,49:35.0,1788.2,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,99,1-Dec,0,2-Dec,0,Open water - marine,NA
+137483459,514485867,6.710073166,6.001585904,FALSE,1,gharafat@gmail.com,03:41.9,881,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,100,1-Dec,0,3-Nov,0,Open water - freshwater,NA
+137483460,514485868,-1.806474449,5.999694544,FALSE,1,gharafat@gmail.com,32:18.5,1750.7,1-Jan2018 Sentinel2,,COPERNICUS/S2,5/01/2018,1/01/2018,101,1-Dec,0,1-Dec,0,Open water - freshwater,NA
+137483461,514485869,0.994027335,5.999221705,FALSE,1,gharafat@gmail.com,39:17.9,453.4,1-Jan2018 Sentinel2,,COPERNICUS/S2,5/01/2018,1/01/2018,102,1-Dec,0,2-Dec,0,Open water - marine,NA
+137483462,514485870,1.016724862,5.967778813,FALSE,1,gharafat@gmail.com,01:49.2,1385.2,1-Jan2018 Sentinel2,,COPERNICUS/S2,5/01/2018,1/01/2018,103,1-Dec,0,2-Dec,0,Open water - marine,NA
+137483463,514485871,5.360658517,5.963050711,FALSE,1,gharafat@gmail.com,48:56.6,1202,1-Jan2018 Sentinel2,,COPERNICUS/S2,5/01/2018,1/01/2018,104,1-Dec,0,2-Dec,0,Open water - freshwater,NA
+137483464,514485872,4.997809002,5.937519643,FALSE,1,papsoumah@gmail.com,37:38.9,-27913.8,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,105,1-Dec,0,3-Oct,0,Wetlands - freshwater,No Comment
+137483465,514485873,5.449583077,5.877715252,FALSE,1,papsoumah@gmail.com,16:55.6,167.6,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,106,1-Dec,0,3-Oct,0,Wetlands - freshwater,No Comment
+137483466,514485874,6.661568861,5.858806078,FALSE,1,papsoumah@gmail.com,21:26.5,308.3,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,107,7-Dec,1-Jun,3-Oct,0,Open water - freshwater,River
+137483467,514485875,0.449286675,5.858569717,FALSE,1,papsoumah@gmail.com,27:48.6,419.5,Sentinel 2,2018 - December,,,,108,"1, 2, 7-12",3-Jun,"1, 3-7, 9-12",0,Open water - freshwater,No Comment
+137483468,514485876,0.40326977,5.785775227,FALSE,1,papsoumah@gmail.com,50:07.5,296.2,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,109,1-Dec,0,"3, 5-12",0,Open water - marine,Ocean
+137483469,514485877,5.582658992,5.776794724,FALSE,1,ayilaj2013@gmail.com,11:08.5,986.2,Sentinel 2,2018 - December,,,,110,"1, 3, 8, 10-12","2, 4-7, 9",1-Dec,0,Open water - freshwater,NA
+137483470,514485878,0.81524544,5.771831873,FALSE,1,papsoumah@gmail.com,54:09.9,277.4,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,111,1-Dec,0,"1, 2, 5-7, 9-12",0,Open water - marine,Ocean
+137483471,514485879,-3.224292606,5.648010535,FALSE,1,papsoumah@gmail.com,59:42.2,369.3,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,112,1-Dec,0,"1-5, 7-12",0,Open water - freshwater,Lake
+137483472,514485880,-3.230511107,5.613987834,FALSE,1,papsoumah@gmail.com,03:57.6,288.6,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,113,1-Dec,0,"1-7, 9-12",0,Open water - freshwater,Lake
+137483473,514485881,5.233490178,5.611152696,FALSE,1,papsoumah@gmail.com,10:14.9,414.2,1-Jan2018 Sentinel2,,COPERNICUS/S2,5/01/2018,1/01/2018,114,1-Dec,0,3-Nov,0,Open water - freshwater,River
+137483474,514485882,-0.36378229,5.591779614,FALSE,1,papsoumah@gmail.com,15:19.6,339.1,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,115,1-Dec,0,"1-5, 7-10",0,Open water - freshwater,Lake
+137483475,514485883,-7.394108242,5.449808009,FALSE,1,ayilaj2013@gmail.com,34:38.7,1439.8,Sentinel 2,2018 - December,,,,116,0,1-Dec,1-Dec,0,Herbaceous/Grassland,NA
+137483476,514485884,-5.014909879,5.409183251,FALSE,1,papsoumah@gmail.com,21:08.5,385.9,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,117,0,1-Dec,"1-7, 9, 10, 12",0,Forest/woodlands,
+137483477,514485885,5.616238895,5.389580394,FALSE,1,papsoumah@gmail.com,24:42.2,250.7,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,118,1-Dec,0,3-Nov,0,Open water - freshwater,River
+137483478,514485886,5.573020315,5.3858016,FALSE,1,papsoumah@gmail.com,29:31.2,326,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,119,1-Dec,0,2-Nov,0,Open water - freshwater,River
+137483479,514485887,-4.763060601,5.329358592,FALSE,2,papsoumah@gmail.com,48:58.0,638.5,Sentinel 2,2018 - December,,,,120,"1-2,4,7,10-12","3,5-6,8-9",3-Oct,0,Open water - freshwater,NA
+137483479,514485887,-4.763060601,5.329358592,FALSE,2,papsoumah@gmail.com,48:58.0,638.5,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,120,1-Dec,0,1-Dec,0,Open water - freshwater,
+137483480,514485888,6.442988562,5.326288615,FALSE,1,papsoumah@gmail.com,40:25.7,347,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,121,1-Dec,0,3-Nov,0,Open water - freshwater,River
+137483481,514485889,-3.197863978,5.308577503,FALSE,1,papsoumah@gmail.com,44:32.3,283.5,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,122,1-Dec,0,1-Dec,0,Open water - freshwater,
+137483482,514485890,5.808701491,5.301965482,FALSE,1,papsoumah@gmail.com,48:23.6,268.3,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,123,1-Dec,0,4-Nov,0,Open water - freshwater,River
+137483483,514485891,-3.964916038,5.238210228,FALSE,1,papsoumah@gmail.com,55:47.7,481.2,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,124,1-Dec,0,"1, 2, 4-7, 9-12",0,Open water - marine,Ocean
+137483484,514485892,-7.482100026,5.223098803,FALSE,1,ayilaj2013@gmail.com,59:57.5,696.4,Sentinel 2,2018 - December,,,,125,"1-2,4-12","3,9","1-3,4,12",0,Open water - freshwater,NA
+137483485,514485893,-4.381555584,5.203973913,FALSE,1,papsoumah@gmail.com,11:50.2,482,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,126,1-Dec,0,"1, 2, 4-7, 9-11",0,Open water - marine,Ocean
+137483486,514485894,-4.375648008,5.199251805,FALSE,1,ayilaj2013@gmail.com,09:00.0,579.3,Sentinel 2,2018 - December,,,,127,"2-4,6-8,10-11","1,5,9","1-9,11-12",0,Open water - marine,NA
+137483487,514485895,-3.243880883,5.19783518,FALSE,1,ayilaj2013@gmail.com,17:45.5,562.4,Sentinel 2,2018 - December,,,,128,"2-4,7,11-12","1,5-6,8-10","1-2,4-9",0,Open water - freshwater,NA
+137483488,514485896,-2.875745643,5.183669094,FALSE,1,ayilaj2013@gmail.com,30:34.0,805.3,Sentinel 2,2018 - December,,,,129,"2-5,11","1,6-10,12","1-2,4-12",0,Open water - Constructed (e.g. aquaculture),NA
+137483489,514485897,-3.605175773,5.169503318,FALSE,1,ayilaj2013@gmail.com,38:11.3,492.3,Sentinel 2,2018 - December,,,,130,"1-4,6-8,10-12","5,9","1,4-5,6-8",0,Open water - marine,NA
+137483490,514485898,-5.194935474,5.161712273,FALSE,1,ayilaj2013@gmail.com,44:12.1,397.6,Sentinel 2,2018 - December,,,,131,"2,8,10-12","1,3,5-7,9","1,3-7,9-11",0,Open water - freshwater,NA
+137483491,514485899,6.394795181,5.147074803,FALSE,1,ayilaj2013@gmail.com,51:14.4,459.1,Sentinel 2,2018 - November,,,,132,"1-3,6,11-12","4-5,7-10","2-3,5,7-9",0,Open water - freshwater,NA
+137483492,514485900,-2.982082004,5.106233271,FALSE,1,ayilaj2013@gmail.com,00:25.5,587.7,Sentinel 2,2018 - December,,,,133,"2-3,12","1,4-11","1-3,5-11",0,Open water - freshwater,NA
+137483493,514485901,-1.321120471,5.097498707,FALSE,1,ayilaj2013@gmail.com,07:58.9,488.5,Sentinel 2,2018 - December,,,,134,"1-5,7-12",6,"2,6,8,11",0,Open water - freshwater,NA
+137483494,514485902,8.139084624,5.061617382,FALSE,1,ayilaj2013@gmail.com,16:42.7,560.3,Sentinel 2,2018 - September,,,,135,10-Dec,1-Sep,1-Sep,0,Open water - freshwater,NA
+137483495,514485903,8.10115177,5.059728945,FALSE,1,ayilaj2013@gmail.com,22:55.3,409.5,Sentinel 2,2018 - December,,,,136,"1,3-4,12","1-2,5-11",2-Nov,0,Open water - freshwater,NA
+137483496,514485904,-5.704541605,5.05760446,FALSE,1,ayilaj2013@gmail.com,28:27.5,369.1,Sentinel 2,2018 - December,,,,137,"1-3,5-8,10-12","4,9","1,4,9",0,Open water - marine,NA
+137483497,514485905,-2.394122764,4.94289226,FALSE,1,ayilaj2013@gmail.com,33:01.3,310.8,Sentinel 2,2018 - January,,,,138,"1-3,10-12","4-5,7,9","1-6,9,11-12",0,Open water - marine,NA
+137483498,514485906,8.269984063,4.869968042,FALSE,1,ayilaj2013@gmail.com,37:03.3,278.6,Sentinel 2,2018 - December,,,,139,"2,11-12","1,3-10","1,3-9",0,Open water - freshwater,NA
+137483499,514485907,6.264206667,4.86359639,FALSE,1,ayilaj2013@gmail.com,43:09.6,403.3,Sentinel 2,2018 - December,,,,140,"1,3,6,10-12","2,4-5,7-9","2-5,7-9",0,Open water - freshwater,NA
+137483500,514485908,6.036609542,4.745377418,FALSE,1,ayilaj2013@gmail.com,47:56.7,323.2,Sentinel 2,2018 - November,,,,141,"1-3,11-12",3-Oct,"2,4-10",0,Open water - freshwater,NA
+137483501,514485909,6.876728984,4.732164555,FALSE,1,ayilaj2013@gmail.com,53:11.9,348.5,Sentinel 2,2018 - December,,,,142,"2,6,11-12","1,3-5,7-10","1,3-5,7-11",0,Open water - freshwater,NA
+137483502,514485910,6.867401233,4.639445438,FALSE,1,ayilaj2013@gmail.com,01:11.1,505.6,Sentinel 2,2018 - November,,,,143,"1-2,6,10-12","3-5,7-9",1-Dec,0,Open water - freshwater,NA
+137483503,514485911,-6.939535841,4.628829506,FALSE,1,ayilaj2013@gmail.com,06:23.9,349.5,Sentinel 2,2018 - December,,,,144,"2-4,7-9,11-12","1,5,10","1,5-6,9-10",0,Open water - marine,NA
+137483504,514485912,6.546526598,4.620336872,FALSE,1,ayilaj2013@gmail.com,11:26.8,338.9,Sentinel 2,2018 - December,,,,145,"1-3,6,10-11","4-5,7-9,12","2,4-5,7-9,12",0,Open water - freshwater,NA
+137483505,514485913,-6.966586319,4.6050032,FALSE,1,ayilaj2013@gmail.com,15:53.5,296.3,Sentinel 2,2018 - November,,,,146,"1-5,7-12",6,"1,5-6,10",0,Open water - marine,NA
+137483506,514485914,6.287526044,4.523150399,FALSE,1,ayilaj2013@gmail.com,34:09.6,15532.9,Sentinel 2,2018 - December,,,,147,"1-2,11-12",3-Oct,3-Oct,0,Wetlands - freshwater,NA
+137483507,514485915,7.225586873,4.522442777,FALSE,1,ayilaj2013@gmail.com,52:50.0,1157.6,Sentinel 2,2018 - November,,,,148,"1-2,4-5,7,11-12","3,6,8-10","1-4,6-10,12",0,Wetlands - freshwater,NA
+137483508,514485916,7.241133125,4.496497115,FALSE,1,ayilaj2013@gmail.com,01:05.1,532.3,Sentinel 2,2018 - December,,,,149,"2,4,12","1,3,5-11","1-3,5-12",0,Open water - freshwater,NA
+137483509,514485917,7.479301701,4.485175654,FALSE,1,ayilaj2013@gmail.com,10:37.0,607,Sentinel 2,2018 - December,,,,150,"2-5,12","1,6-11","1-2,4,6-11",0,Open water - freshwater,NA
+137483510,514485918,7.183611993,4.478807407,FALSE,1,ayilaj2013@gmail.com,19:57.4,596.2,Sentinel 2,2018 - December,,,,151,"1-2,4-5,11-12","3,6-10","1-3,6-9,11",0,Open water - freshwater,NA
+137483511,514485919,6.725308493,4.459231282,FALSE,1,ayilaj2013@gmail.com,26:33.9,433.7,Sentinel 2,2018 - December,,,,152,"1,4-6,9-11","2-3,7-6,12","2-9,12",0,Open water - freshwater,NA
+137483512,514485920,6.714737042,4.406401858,FALSE,1,ayilaj2013@gmail.com,32:41.7,405,Sentinel 2,2018 - December,,,,153,"1,3-5,9-12","2,6-8","2,6-8",0,Open water - freshwater,NA
+137483513,514485921,6.854653307,4.397675922,FALSE,1,ayilaj2013@gmail.com,38:50.8,406,Sentinel 2,2018 - December,,,,154,"1,5,7-12","2,4,6","2,4,6,8-10",0,Open water - freshwater,NA
+137483514,514485922,-7.561074985,4.388714253,FALSE,1,ayilaj2013@gmail.com,43:45.7,332.1,Sentinel 2,2018 - December,,,,155,"1-3,5,11","4,6-9,12","1,4,6-12",0,Open water - freshwater,NA
+137483515,514485923,6.352198451,4.376922744,FALSE,1,ayilaj2013@gmail.com,49:43.0,393.7,Sentinel 2,2018 - December,,,,156,"2-3,9,12","1,4-8,10-11","1,4-8,10-11",0,Open water - freshwater,NA
+137483516,514485924,14.89424192,12.41145519,FALSE,1,ayilaj2013@gmail.com,55:28.2,381.8,Sentinel 2,2018 - December,,,,157,1-Dec,0,0,0,Open water - freshwater,NA
+137483517,514485925,14.9586034,12.095443,FALSE,1,ayilaj2013@gmail.com,52:01.8,3430.7,Sentinel 2,2018 - December,,,,158,"1-3,7-8,10-12","4-6,9",0,0,Open water - freshwater,NA
+137483518,514485926,15.06556161,11.71929963,FALSE,1,ayilaj2013@gmail.com,58:56.2,451.6,Sentinel 2,2018 - November,,,,159,1-Dec,0,0,0,Open water - freshwater,NA
+137483519,514485927,15.04566241,11.00703938,FALSE,1,ayilaj2013@gmail.com,04:23.9,363.5,Sentinel 2,2018 - December,,,,160,1-Dec,0,0,0,Open water - freshwater,NA
+137483520,514485928,14.82708211,10.82822346,FALSE,1,ayilaj2013@gmail.com,11:26.0,459,Sentinel 2,2018 - December,,,,161,0,1-Dec,0,0,Herbaceous/Grassland,NA
+137483521,514485929,15.22009136,9.975282601,FALSE,1,ayilaj2013@gmail.com,16:18.6,329,Sentinel 2,2018 - December,,,,162,1-Dec,0,0,0,Open water - freshwater,NA
+137483522,514485930,14.00375262,8.894347833,FALSE,1,ayilaj2013@gmail.com,29:15.9,815,Sentinel 2,2018 - December,,,,163,"1-3,9-11","4-8,12",3,0,Forest/woodlands,NA
+137483523,514485931,13.90954234,8.803939588,FALSE,1,ayilaj2013@gmail.com,35:13.7,391.4,Sentinel 2,2018 - December,,,,164,1-Dec,0,0,0,Open water - freshwater,NA
+137483524,514485932,12.62915305,6.870428081,FALSE,1,ayilaj2013@gmail.com,40:56.7,380.4,Sentinel 2,2018 - December,,,,165,"1-6,9-12",7-Aug,"4,7-9",0,Open water - freshwater,NA
+137483525,514485933,11.24926774,6.156226352,FALSE,1,ayilaj2013@gmail.com,51:47.6,687.6,Sentinel 2,2018 - December,,,,166,"1-7,9-12",8,8,0,Open water - freshwater,NA
+137483526,514485934,10.57331672,5.746072994,FALSE,1,ayilaj2013@gmail.com,56:36.1,325,Sentinel 2,2018 - December,,,,167,1-Dec,0,0,0,Open water - freshwater,NA
+137483527,514485935,8.750363241,4.708334833,FALSE,1,ayilaj2013@gmail.com,01:35.4,336,Sentinel 2,2018 - December,,,,168,"1-2,10-12",3-Sep,3-Sep,0,Open water - freshwater,NA
+137483528,514485936,9.411389864,4.65926226,FALSE,1,ayilaj2013@gmail.com,08:00.7,422.9,Sentinel 2,2018 - December,,,,169,"2-3,9,12","1,4-8,10-11","1,4,6-11",0,Open water - freshwater,NA
+137483529,514485937,8.87006938,4.549804637,FALSE,1,ayilaj2013@gmail.com,20:19.7,776.5,Sentinel 2,2018 - November,,,,170,"2,11-12","1,3-10","1,3-10",0,Open water - freshwater,NA

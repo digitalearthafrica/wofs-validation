@@ -1,0 +1,187 @@
+PLOT_ID,SAMPLE_ID,LON,LAT,FLAGGED,ANALYSES,USER_ID,COLLECTION_TIME,ANALYSIS_DURATION,IMAGERY_TITLE,SENTINEL2MOSAICYEARMONTH,GEEIMAGECOLLECTIONASSETID,GEEIMAGECOLLECTIONENDDATE,GEEIMAGECOLLECTIONSTARTDATE,PL_PLOTID,"ENTER MONTHS[1-12] IN 2018, WATER WAS OBSERVED?","ENTER MONTHS[1-12] IN 2018, WATER WAS NOT OBSERVED?","ENTER MONTHS[1-12] IN 2018, IMAGE WAS BAD?","ENTER MONTHS[1-12] IN 2018, THAT YOU ARE UNSURE IF YOU OBSERVE WATER OR NOT? ",WHAT IS THE FEATURE?,COMMENT
+137483175,514485583,30.46381301,-26.65380659,FALSE,1,yadjemi@gmail.com,50:04.0,1114.2,Sentinel 2,2018 - 2018,,,,1,1-Dec,0,2,0,Open water - freshwater,NA
+137483176,514485584,30.02603057,-26.67322664,FALSE,1,yadjemi@gmail.com,56:18.0,513.1,Sentinel 2,2018 - 2018,,,,2,1-Dec,0,0,0,Open water - Constructed (e.g. aquaculture),NA
+137483177,514485585,31.70036188,-26.74673726,FALSE,1,yadjemi@gmail.com,12:28.1,159.5,Sentinel 2,2019 - 2019,,,,3,1-Dec,0,"1,2",0,Open water - freshwater,NA
+137483178,514485586,31.93728675,-26.80190076,FALSE,1,yadjemi@gmail.com,14:26.6,3728.7,Sentinel 2,2018 - 2018,,,,4,1-Dec,0,"2,7,12",0,Open water - freshwater,NA
+137483179,514485587,27.33994919,-26.86392537,FALSE,1,yadjemi@gmail.com,23:28.0,551.6,Sentinel 2,2018 - 2018,,,,5,1-Dec,0,0,0,Open water - freshwater,NA
+137483180,514485588,17.97955104,-26.88469528,FALSE,1,yadjemi@gmail.com,30:01.9,5461.1,Sentinel 2,2018 - 2018,,,,6,1-Dec,0,0,0,Open water - freshwater,NA
+137483181,514485589,28.10358108,-26.93676795,FALSE,1,yadjemi@gmail.com,59:30.4,1779.3,Sentinel 2,2018 - 2018,,,,7,1-Dec,0,2,0,Open water - freshwater,NA
+137483182,514485590,32.88560811,-27.03782453,FALSE,1,yadjemi@gmail.com,47:36.3,2896.8,Sentinel 2,2018 - 2018,,,,8,1-Dec,0,1-Dec,0,Open water - marine,NA
+137483183,514485591,16.50638822,-27.10787948,FALSE,1,yadjemi@gmail.com,19:53.4,9148.1,Sentinel 2,2018 - 2018,,,,9,0,1-Dec,"8,9",0,Barren (Bare soil / Rocky Land),NA
+137483184,514485592,32.8408349,-27.11762736,FALSE,1,yadjemi@gmail.com,02:18.5,2552.7,Sentinel 2,2018 - 2018,,,,10,1-Dec,0,1-Dec,0,Open water - marine,NA
+137483185,514485593,15.39420938,-27.28874613,FALSE,1,yadjemi@gmail.com,26:21.1,5052.8,Sentinel 2,2018 - 2018,,,,11,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),NA
+137483186,514485594,15.33637732,-27.38641778,FALSE,1,yadjemi@gmail.com,29:57.4,1023.9,Sentinel 2,2018 - 2018,,,,12,1-Dec,0,1-Dec,0,Open water - marine,NA
+137483187,514485595,25.46351661,-27.39037922,FALSE,1,yadjemi@gmail.com,07:46.4,2114.5,Sentinel 2,2018 - 2018,,,,13,0,1-Dec,1-Dec,0,Shrubs,NA
+137483188,514485596,17.04522131,-27.48813882,FALSE,1,papsoumah@gmail.com,16:46.5,2784.1,Sentinel 2,2018 - 2018,,,,14,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),No comment
+137483189,514485597,15.57889885,-27.69503544,FALSE,1,papsoumah@gmail.com,50:27.0,2026.9,Sentinel 2,2018 - 2018,,,,15,0,1-Dec,8,0,Barren (Bare soil / Rocky Land),No Comment
+137483190,514485598,32.6085739,-27.82725842,FALSE,1,papsoumah@gmail.com,21:03.1,-19958.8,Sentinel 2,2018 - 2018,,,,16,1-Dec,0,"8, 11, 12",0,Open water - marine,No Comment
+137483191,514485599,17.4226843,-27.88746012,FALSE,1,papsoumah@gmail.com,39:30.8,-27653,Sentinel 2,2018 - 2018,,,,17,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),No Comment
+137483192,514485600,29.90383703,-28.00610306,FALSE,1,papsoumah@gmail.com,59:16.0,-27002.6,Sentinel 2,2018 - 2018,,,,18,1-Dec,0,0,0,Open water - freshwater,No Comment
+137483193,514485601,32.6048428,-28.06985675,FALSE,1,papsoumah@gmail.com,33:36.1,-27938.7,Sentinel 2,2018 - 2018,,,,19,1-Dec,0,"1, 2, 3, 8, 10, 11, 12",0,Open water - marine,No Comment
+137483194,514485602,18.5367287,-28.08872431,FALSE,1,papsoumah@gmail.com,13:23.1,-28502.7,Sentinel 2,2018 - 2018,,,,20,0,1-Dec,1-Dec,0,Barren (Bare soil / Rocky Land),No Comment
+137483195,514485603,32.16923683,-28.11530386,FALSE,1,papsoumah@gmail.com,26:21.5,-27982.7,Sentinel 2,2018 - 2018,,,,21,1-Dec,0,"1, 2, 8",0,Open water - Constructed (e.g. aquaculture),Open water constructed referes to impoundment
+137483196,514485604,18.1443413,-28.12274728,FALSE,1,papsoumah@gmail.com,38:01.5,-28062,Sentinel 2,2018 - 2018,,,,22,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),No Comment
+137483197,514485605,30.3369556,-28.16103577,FALSE,1,papsoumah@gmail.com,45:29.1,-28313.2,Sentinel 2,2018 - 2018,,,,23,1-Dec,0,2,0,Open water - Constructed (e.g. aquaculture),open water constructed (impoundment)
+137483198,514485606,27.17951188,-28.28982612,FALSE,1,papsoumah@gmail.com,54:42.9,-28206.9,Sentinel 2,2018 - 2018,,,,24,1-Dec,0,0,0,Open water - Constructed (e.g. aquaculture),Open Water Constructed = Impoundment
+137483199,514485607,23.50002502,-28.36999791,FALSE,1,papsoumah@gmail.com,44:50.5,-26678.9,Sentinel 2,2018 - 2018,,,,25,0,1-Dec,0,0,Cultivated (Cropland/ Plantation)  ,No Comment
+137483200,514485608,29.01894438,-28.39318153,FALSE,1,papsoumah@gmail.com,07:51.1,-27379.6,Sentinel 2,2018 - 2018,,,,26,1-Dec,0,"2, 4, 8, 12",0,Open water - Constructed (e.g. aquaculture),Open Water constructed = impoundment
+137483201,514485609,17.39687752,-28.43903044,FALSE,1,papsoumah@gmail.com,26:35.5,-28514.4,Sentinel 2,2019 - 2019,,,,27,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),No Comment
+137483202,514485610,21.23400337,-28.45742879,FALSE,1,papsoumah@gmail.com,33:52.7,-28322.8,Sentinel 2,2019 - 2019,,,,28,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),Barren = bare soil
+137483203,514485611,16.71532985,-28.48756619,FALSE,1,papsoumah@gmail.com,43:25.7,-28378.8,Sentinel 2,2018 - 2018,,,,29,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),No Comment
+137483204,514485612,17.85424825,-28.61273997,FALSE,1,papsoumah@gmail.com,50:03.1,-28361.7,Sentinel 2,2018 - 2018,,,,30,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),No Comment
+137483205,514485613,17.53057529,-28.62742876,FALSE,1,papsoumah@gmail.com,55:48.0,-28414.8,Sentinel 2,2018 - 2018,,,,31,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),No Comment
+137483206,514485614,20.75144772,-28.77282296,FALSE,1,papsoumah@gmail.com,03:48.8,-28280.8,Sentinel 2,2018 - 2018,,,,32,1-Dec,0,0,0,Open water - Constructed (e.g. aquaculture),Open Water constructed = impoundment
+137483207,514485615,17.68261763,-28.81027266,FALSE,1,papsoumah@gmail.com,46:16.5,-28616.9,Sentinel 2,2019 - 2019,,,,33,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),No Comment
+137483208,514485616,31.09063788,-28.99503948,FALSE,1,papsoumah@gmail.com,05:24.2,-27935.3,Sentinel 2,2018 - 2018,,,,34,"2, 3, 4, 12","1, 5, 6, 7, 8, 9, 10, 11",0,0,Herbaceous/Grassland,No Comment
+137483209,514485617,19.20428475,-29.02452491,FALSE,1,papsoumah@gmail.com,15:12.3,-28172.2,Sentinel 2,2018 - 2018,,,,35,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),Shadow of the cliff gives the dark colour
+137483210,514485618,30.79681373,-29.04516961,FALSE,1,papsoumah@gmail.com,27:29.1,-28023.6,Sentinel 2,2018 - 2018,,,,36,1-Dec,0,"1, 12",0,Open water - Constructed (e.g. aquaculture),Open Water constructed = impoundment
+137483211,514485619,31.16215064,-29.04785104,FALSE,1,papsoumah@gmail.com,35:13.6,-28294.3,Sentinel 2,2018 - 2018,,,,37,1-Dec,0,"1, 11, 12",0,Open water - freshwater,No Comment
+137483212,514485620,23.72668937,-29.07332801,FALSE,1,papsoumah@gmail.com,51:27.5,-27786.9,Sentinel 2,2018 - 2018,,,,38,1-Dec,0,0,0,Open water - freshwater,No Comment
+137483213,514485621,28.24847215,-29.09478709,FALSE,1,papsoumah@gmail.com,59:01.3,-28306.1,Sentinel 2,2018 - 2018,,,,39,0,1-Dec,"1, 2, 4, 5, 8, 9, 11",0,Barren (Bare soil / Rocky Land),No Comment
+137483214,514485622,29.33888624,-29.09478709,FALSE,1,papsoumah@gmail.com,06:11.8,-28328.2,Sentinel 2,2018 - 2018,,,,40,0,1-Dec,"3, 4, 8",0,Barren (Bare soil / Rocky Land),No Comment
+137483215,514485623,27.51779831,-29.10498168,FALSE,1,papsoumah@gmail.com,13:03.8,-28348.7,Sentinel 2,2018 - 2018,,,,41,1-Dec,0,0,0,Open water - Constructed (e.g. aquaculture),Open Water Constructed
+137483216,514485624,23.12753683,-29.350488,FALSE,1,papsoumah@gmail.com,19:48.7,-28356,Sentinel 2,2018 - 2018,,,,42,1-Dec,0,0,0,Open water - freshwater,No Comment
+137483217,514485625,30.40411541,-29.45138299,FALSE,1,papsoumah@gmail.com,01:09.0,-28483.6,Sentinel 2,2018 - 2018,,,,43,1-Nov,12,12,0,Open water - Constructed (e.g. aquaculture),No Image for 12/ 2018
+137483218,514485626,20.5561868,-29.54537097,FALSE,1,papsoumah@gmail.com,06:14.2,-28455.3,Sentinel 2,2018 - 2018,,,,44,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),No Comment
+137483219,514485627,22.87724218,-29.59280139,FALSE,1,papsoumah@gmail.com,18:55.9,-27997,Sentinel 2,2018 - 2018,,,,45,"4, 5, 6, 7","1, 2, 3, 8, 9, 10, 11, 12",0,0,Barren (Bare soil / Rocky Land),Bare soil
+137483220,514485628,28.51773322,-29.91677642,FALSE,1,papsoumah@gmail.com,23:43.7,-28470.8,Sentinel 2,2018 - 2018,,,,46,0,1-Dec,0,0,Herbaceous/Grassland,No Comment
+137483221,514485629,28.66386799,-29.92380727,FALSE,1,papsoumah@gmail.com,29:36.5,-28407,Sentinel 2,2018 - 2018,,,,47,0,1-Dec,4,0,Barren (Bare soil / Rocky Land),No Comment
+137483222,514485630,19.57273091,-30.06073565,FALSE,1,papsoumah@gmail.com,38:25.5,-28229.6,Sentinel 2,2018 - 2018,,,,48,"5, 6, 7","1, 2, 3, 4, 8, 9, 10, 11, 12",0,0,Herbaceous/Grassland,No Comment
+137483223,514485631,29.15295307,-30.31180235,FALSE,1,papsoumah@gmail.com,44:26.9,-28397.7,Sentinel 2,2018 - 2018,,,,49,1-Dec,0,0,0,Open water - Constructed (e.g. aquaculture),No Comment
+137483224,514485632,27.95713539,-30.33786685,FALSE,1,papsoumah@gmail.com,15:40.0,-27976.9,Sentinel 2,2018 - December,,,,50,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),Some images were cloudy but did not affect the identification of the point.
+137483225,514485633,28.17291736,-30.5074524,FALSE,1,papsoumah@gmail.com,24:18.5,-28234.9,Sentinel 2,2018 - July,,,,51,0,1-Dec,"4, 9",0,Herbaceous/Grassland,No Comment
+137483226,514485634,26.09189611,-30.53411233,FALSE,1,papsoumah@gmail.com,32:42.8,-28249.2,Sentinel 2,2018 - December,,,,52,1-Dec,0,0,0,Open water - freshwater,No Comment
+137483227,514485635,20.47938831,-30.58772595,FALSE,1,papsoumah@gmail.com,38:22.0,-28414.4,Sentinel 2,2018 - December,,,,53,0,1-Dec,0,0,Herbaceous/Grassland,No Comment
+137483228,514485636,25.60965138,-30.68359534,FALSE,1,papsoumah@gmail.com,52:23.0,-28696.7,Sentinel 2,2018 - December,,,,54,3-Dec,"1, 2",0,0,Open water - Constructed (e.g. aquaculture),
+137483229,514485637,26.96652823,-30.73020193,FALSE,1,papsoumah@gmail.com,54:48.5,-28607.9,Sentinel 2,2018 - December,,,,55,3-Dec,"1, 2",0,0,Open water - freshwater,No Comment
+137483230,514485638,20.16535403,-30.91766932,FALSE,1,papsoumah@gmail.com,58:56.0,-28505.9,Sentinel 2,2018 - December,,,,56,0,1-Dec,0,0,Herbaceous/Grassland,No Comment
+137483231,514485639,19.42162135,-30.93706418,FALSE,1,papsoumah@gmail.com,03:21.1,-28488.3,Sentinel 2,2018 - December,,,,57,0,1-Dec,0,0,Herbaceous/Grassland,No Comment
+137483232,514485640,20.10223625,-30.93815696,FALSE,1,papsoumah@gmail.com,08:35.5,-28439,Sentinel 2,2018 - December,,,,58,0,1-Dec,0,0,Herbaceous/Grassland,No Comment
+137483233,514485641,24.4523884,-31.06637088,FALSE,1,papsoumah@gmail.com,14:23.9,-28405,Sentinel 2,2018 - December,,,,59,0,1-Dec,0,0,Urban (Settlements/ roads)  ,Within a settlement
+137483234,514485642,25.04874262,-31.14518751,FALSE,1,papsoumah@gmail.com,19:56.2,-28423.2,Sentinel 2,2018 - December,,,,60,0,1-Dec,6,0,Herbaceous/Grassland,No Comment
+137483235,514485643,28.68469997,-31.45917725,FALSE,1,papsoumah@gmail.com,25:28.6,-28421.1,Sentinel 2,2018 - December,,,,61,1-Dec,0,12,0,Open water - Constructed (e.g. aquaculture),Impoundment
+137483236,514485644,25.47222251,-31.76565975,FALSE,1,papsoumah@gmail.com,30:28.0,-28453.9,Sentinel 2,2018 - December,,,,62,1-Dec,0,4,0,Open water - Constructed (e.g. aquaculture),Impoundment
+137483237,514485645,29.11595299,-32.03057439,FALSE,1,papsoumah@gmail.com,37:27.5,-28334,Sentinel 2,2018 - December,,,,63,"1-8, 10, 12","9, 11","4, 12",0,Open water - marine,water not observed coincide with low tide period
+137483238,514485646,26.75447736,-32.21369343,FALSE,1,papsoumah@gmail.com,41:14.5,-28526.3,Sentinel 2,2018 - December,,,,64,1-Dec,0,0,0,Open water - Constructed (e.g. aquaculture),Impoundment
+137483239,514485647,18.91636816,-32.22393883,FALSE,1,papsoumah@gmail.com,46:14.6,-28453.3,Sentinel 2,2018 - December,,,,65,1-Dec,0,0,0,Open water - Constructed (e.g. aquaculture),Impoundment
+137483240,514485648,18.37380398,-32.30400279,FALSE,1,papsoumah@gmail.com,51:25.1,-28443.1,Sentinel 2,2018 - December,,,,66,0,1-Dec,0,0,Cultivated (Cropland/ Plantation)  ,Cropland
+137483241,514485649,19.82675667,-32.36721642,FALSE,1,papsoumah@gmail.com,56:05.3,-28473.2,Sentinel 2,2018 - December,,,,67,0,1-Dec,0,0,Herbaceous/Grassland,No Comment
+137483242,514485650,21.27069252,-32.46544994,FALSE,1,papsoumah@gmail.com,00:39.6,-28479.1,Sentinel 2,2018 - December,,,,68,0,1-Dec,0,0,Herbaceous/Grassland,Herbaceous
+137483243,514485651,25.48403766,-32.61160725,FALSE,1,papsoumah@gmail.com,04:56.8,-28525.7,Sentinel 2,2018 - November,,,,69,0,1-Dec,4,0,Herbaceous/Grassland,Herbaceous
+137483244,514485652,26.91615837,-32.69061839,FALSE,1,papsoumah@gmail.com,09:23.7,-28486.5,Sentinel 2,2018 - December,,,,70,1-Dec,0,12,0,Open water - Constructed (e.g. aquaculture),Impoundment
+137483245,514485653,19.24377223,-32.70008206,FALSE,1,papsoumah@gmail.com,43:28.4,-28511.7,Sentinel 2,2018 - December,,,,71,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),"Rocky, cliff shade "
+137483246,514485654,19.88116855,-32.73349114,FALSE,1,papsoumah@gmail.com,48:56.0,-28425.9,Sentinel 2,2018 - December,,,,72,0,1-Dec,0,0,Herbaceous/Grassland,Shade of the terrain
+137483247,514485655,21.92705527,-32.74713671,FALSE,1,papsoumah@gmail.com,57:31.8,-28236.6,Sentinel 2,2018 - December,,,,73,0,1-Dec,0,0,Herbaceous/Grassland,No Comment
+137483248,514485656,22.49324976,-32.75075731,FALSE,1,papsoumah@gmail.com,16:05.1,-28383.7,Sentinel 2,2018 - December,,,,74,0,1-Dec,0,0,Herbaceous/Grassland,No Comment
+137483249,514485657,21.17492761,-32.88872626,FALSE,1,papsoumah@gmail.com,34:44.8,-27633.4,Sentinel 2,2018 - December,,,,75,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),No Comment
+137483250,514485658,21.61519746,-32.92360021,FALSE,1,papsoumah@gmail.com,43:03.5,-28255.7,Sentinel 2,2018 - December,,,,76,0,1-Dec,9,0,Herbaceous/Grassland,No Comment
+137483251,514485659,27.99848842,-32.93085569,FALSE,1,papsoumah@gmail.com,50:14.0,-28324.6,Sentinel 2,2018 - September,,,,77,"1-7, 9-12",8,"2, 12",0,Open water - freshwater,River
+137483252,514485660,27.45778978,-33.28093064,FALSE,1,papsoumah@gmail.com,55:54.7,-28412.2,Sentinel 2,2018 - December,,,,78,1-Dec,0,0,0,Open water - freshwater,Down stream river
+137483253,514485661,19.05410795,-33.38408977,FALSE,1,papsoumah@gmail.com,03:52.3,-28275,Sentinel 2,2018 - December,,,,79,1-Dec,0,0,0,Open water - Constructed (e.g. aquaculture),Reservoir
+137483254,514485662,22.56227512,-33.40204274,FALSE,1,papsoumah@gmail.com,16:19.9,-28005.3,Sentinel 2,2018 - December,,,,80,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),Point in the river valley not on the water 
+137483255,514485663,21.23773447,-33.42757589,FALSE,1,papsoumah@gmail.com,27:12.6,-28099.9,Sentinel 2,2018 - December,,,,81,1-Dec,0,"4, 5, 9",0,Herbaceous/Grassland,Presence of vegetation in the stream 
+137483256,514485664,19.57552924,-33.4472218,FALSE,1,papsoumah@gmail.com,32:52.4,-28412.6,Sentinel 2,2018 - December,,,,82,0,1-Dec,0,0,Herbaceous/Grassland,No Comment
+137483257,514485665,20.68988456,-33.48680752,FALSE,1,papsoumah@gmail.com,03:59.6,-28593.8,Sentinel 2,2018 - December,,,,83,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),
+137483258,514485666,24.71916208,-33.56181642,FALSE,1,papsoumah@gmail.com,06:22.8,-28607.9,Sentinel 2,2018 - December,,,,84,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),
+137483259,514485667,19.40794064,-33.66896247,FALSE,1,papsoumah@gmail.com,10:47.0,-28487,Sentinel 2,2018 - December,,,,85,"5, 6, 7, 8, 9, 10, 11","1, 2, 3, 4, 12",0,0,Open water - freshwater,
+137483260,514485668,25.84844181,-33.72244384,FALSE,1,papsoumah@gmail.com,14:42.6,-28515.6,Sentinel 2,2018 - December,,,,86,"1-4, 6, 7, 9-12","5, 8",0,0,Open water - marine,
+137483261,514485669,19.00218347,-33.94149618,FALSE,1,papsoumah@gmail.com,18:08.6,-28545.1,Sentinel 2,2018 - December,,,,87,0,1-Dec,9,0,Barren (Bare soil / Rocky Land),
+137483262,514485670,19.22636042,-34.03526252,FALSE,1,papsoumah@gmail.com,22:37.6,-28482.2,Sentinel 2,2018 - December,,,,88,1-Dec,0,9,0,Open water - Constructed (e.g. aquaculture),Impoundment (Reservoir)
+137483263,514485671,24.29785866,-34.096039,FALSE,1,papsoumah@gmail.com,25:41.3,-28567.5,Sentinel 2,2018 - December,,,,89,1-Dec,0,"4,12",0,Open water - marine,No Comment
+137483264,514485672,20.12555562,-34.09688735,FALSE,1,papsoumah@gmail.com,30:11.4,-28481,Sentinel 2,2018 - December,,,,90,1-Dec,0,0,0,Open water - Constructed (e.g. aquaculture),Cropland
+137483265,514485673,18.81780493,-34.3568756,FALSE,1,papsoumah@gmail.com,33:24.1,-28558.4,Sentinel 2,2018 - December,,,,91,1-Dec,0,9,0,Open water - marine,Sea
+137483266,514485674,5.270490257,12.58790093,FALSE,1,papsoumah@gmail.com,38:14.3,-28461,Sentinel 2,2018 - December,,,,92,1-Dec,0,"7, 8",0,Open water - freshwater,River
+137483267,514485675,-15.24962923,12.45597682,FALSE,1,papsoumah@gmail.com,41:00.3,-28585.1,Sentinel 2,2018 - December,,,,93,1-Dec,0,"7, 8, 9",0,Open water - freshwater,River
+137483268,514485676,2.844653139,12.40134861,FALSE,1,papsoumah@gmail.com,44:04.0,-28567.5,Sentinel 2,2018 - December,,,,94,1-Dec,0,0,0,Open water - freshwater,River
+137483269,514485677,7.484898352,12.37752748,FALSE,1,papsoumah@gmail.com,49:10.3,-28444.9,Sentinel 2,2018 - December,,,,95,1-Dec,0,"7, 8, 9",0,Open water - Constructed (e.g. aquaculture),Dam
+137483270,514485678,9.804399108,12.31425533,FALSE,1,papsoumah@gmail.com,55:29.7,-28371.7,Sentinel 2,2018 - December,,,,96,1-Dec,0,"4, 8",0,Open water - Constructed (e.g. aquaculture),No Comment
+137483271,514485679,13.50658349,12.25725095,FALSE,1,papsoumah@gmail.com,19:54.2,-28311.2,Sentinel 2,2018 - December,,,,97,0,1-Dec,6,0,Barren (Bare soil / Rocky Land),No Comment
+137483272,514485680,-13.66546618,12.23729023,FALSE,1,papsoumah@gmail.com,58:58.2,-28564.2,Sentinel 2,2018 - December,,,,98,1-Dec,0,"7, 8, 9",0,Open water - freshwater,River
+137483273,514485681,6.919014789,12.23031636,FALSE,1,papsoumah@gmail.com,02:30.7,-28538.7,Sentinel 2,2018 - December,,,,99,0,1-Dec,"7, 8, 9",0,Herbaceous/Grassland,No Comment
+137483274,514485682,-16.17960601,12.16467447,FALSE,1,papsoumah@gmail.com,25:41.9,-28403.5,Sentinel 2,2018 - December,,,,100,1-Dec,0,"6, 7, 8, 9",0,Open water - freshwater,No Comment
+137483275,514485683,3.254141409,12.00556429,FALSE,1,papsoumah@gmail.com,07:56.2,-28491.1,Sentinel 2,2018 - December,,,,101,"1, 8, 9, 10, 11, 12","2, 3, 4, 5, 6, 7",0,0,Open water - freshwater,No Comment
+137483276,514485684,-16.01108464,11.99331037,FALSE,1,papsoumah@gmail.com,33:04.8,-28308.3,Sentinel 2,2018 - October,,,,102,"1, 3, 4, 5, 10, 11, 12","2, 6, 7, 8, 9","6, 7, 8, 9",0,Open water - freshwater,No Comment
+137483277,514485685,-15.72223529,11.9606359,FALSE,1,papsoumah@gmail.com,39:25.6,-28370.4,Sentinel 2,2018 - December,,,,103,"1, 2, 3, 4, 7, 8, 9, 10, 11, 12","5, 6","6, 7, 8, 9",0,Wetlands - freshwater,No Comment
+137483278,514485686,-16.24241287,11.90394521,FALSE,1,papsoumah@gmail.com,50:42.3,-28074.6,Sentinel 2,2018 - November,,,,104,1-Dec,0,"5, 6, 9",0,Open water - freshwater,No Comment
+137483279,514485687,-13.1664315,11.89842089,FALSE,1,papsoumah@gmail.com,54:43.2,-28510.2,Sentinel 2,2018 - December,,,,105,1-Dec,0,"6, 7, 8, 9",0,Open water - freshwater,No Comment
+137483280,514485688,12.47928718,11.8816084,FALSE,1,papsoumah@gmail.com,00:45.2,-28389.2,Sentinel 2,2018 - December,,,,106,0,1-Dec,0,0,Herbaceous/Grassland,No Comment
+137483281,514485689,-14.31467766,11.87968704,FALSE,1,papsoumah@gmail.com,04:59.2,-28497.2,Sentinel 2,2018 - December,,,,107,1-Dec,0,"8, 9",0,Open water - freshwater,No Comment
+137483282,514485690,13.09367505,11.85086819,FALSE,1,papsoumah@gmail.com,18:12.7,-27957.7,Sentinel 2,2018 - August,,,,108,0,1-Dec,"4, 5, 6, 7,12",0,Barren (Bare soil / Rocky Land),No Comment
+137483283,514485691,-14.98845221,11.79227898,FALSE,1,papsoumah@gmail.com,22:19.3,-28504.5,Sentinel 2,2018 - December,,,,109,1-Dec,0,"7, 8, 9",0,Open water - freshwater,No Comment
+137483284,514485692,-15.96009294,11.75506676,FALSE,1,papsoumah@gmail.com,29:01.7,-28348.8,Sentinel 2,2018 - December,,,,110,1-Dec,0,"6, 9",0,Open water - marine,No Comment
+137483285,514485693,8.003210384,11.733942,FALSE,1,papsoumah@gmail.com,35:00.7,-28392.2,Sentinel 2,2018 - December,,,,111,1-Dec,0,"5, 7, 9",0,Open water - Constructed (e.g. aquaculture),Impoundment
+137483286,514485694,-15.55309207,11.71689931,FALSE,1,papsoumah@gmail.com,39:53.0,-28458.8,Sentinel 2,2018 - December,,,,112,1-Dec,0,"6, 7, 8, 9",0,Open water - marine,No Comment
+137483287,514485695,7.946311103,11.65617805,FALSE,1,papsoumah@gmail.com,45:02.6,-28441.5,Sentinel 2,2018 - December,,,,113,"1, 2, 7, 8, 9, 10, 11, 12","3, 4, 5, 6","5, 7, 9, 10",0,Open water - Constructed (e.g. aquaculture),Impoundment
+137483288,514485696,-14.71483818,11.59738915,FALSE,1,papsoumah@gmail.com,49:06.3,-28507.5,Sentinel 2,2018 - December,,,,114,1-Dec,0,"7, 8, 9",0,Open water - freshwater,River
+137483289,514485697,-16.01326112,11.53261535,FALSE,1,papsoumah@gmail.com,52:59.5,-28517.9,Sentinel 2,2018 - December,,,,115,1-Dec,0,"6, 9",0,Open water - marine,No Comment
+137483290,514485698,4.065966674,11.46377916,FALSE,1,papsoumah@gmail.com,00:35.4,-28295.3,Sentinel 2,2018 - December,,,,116,1-Dec,0,7,0,Open water - freshwater,River
+137483291,514485699,-16.16592531,11.39879552,FALSE,1,yadjemi@gmail.com,02:22.0,2126.2,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,117,"3,6,10,11,12","1,2,4,5,7,8,9","1,2,4,5,6,7,8,9,10,11",0,Open water - marine,NA
+137483292,514485700,-9.158296886,11.35923692,FALSE,1,yadjemi@gmail.com,06:31.5,3880.1,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,118,"3,4,5,6,7,11,12","1,2,8,9,10",1-Dec,"7,10",Open water - freshwater,The months where the water was not observed could have shown water if the image was not bad
+137483293,514485701,-15.77757994,11.34772998,FALSE,1,yadjemi@gmail.com,58:40.4,3159.8,11-Nov2018 Sentinel2,,COPERNICUS/S2,5/11/2018,1/11/2018,119,"3,6,10,11,12","1,2,4,5,7,8,9","1,2,4,5,6,7,8,9,10,11",0,Open water - marine,Most of the bad image are related to the inexisting image
+137483294,514485702,-14.9411916,11.18596112,FALSE,1,yadjemi@gmail.com,51:03.4,10373.9,3-March2018 Sentinel2,,COPERNICUS/S2,5/03/2018,1/03/2018,120,3,"1,2,4,5,6,7,8,9,10,11,12","1,2,4,5,6,7,8,9,10,11,12","11,12",Open water - freshwater,NA
+137483295,514485703,4.357303431,11.18452357,FALSE,1,papsoumah@gmail.com,01:34.2,2942.3,Sentinel 2,2018 - December,,,,121,1-Dec,0,7,0,Open water - freshwater,River
+137483296,514485704,-14.69089695,11.09804379,FALSE,1,papsoumah@gmail.com,30:51.1,1785.9,Sentinel 2,2018 - December,,,,122,1-Dec,0,"6, 7, 8, 9",0,Open water - freshwater,River
+137483297,514485705,-9.219549118,11.05732789,FALSE,1,papsoumah@gmail.com,39:39.0,556.8,Sentinel 2,2018 - December,,,,123,1-Dec,0,"7, 8",0,Open water - freshwater,River
+137483298,514485706,-8.822186924,11.04822745,FALSE,1,papsoumah@gmail.com,48:54.4,584.5,Sentinel 2,2018 - December,,,,124,0,1-Dec,"6, 7, 8",0,Herbaceous/Grassland,No Comment
+137483299,514485707,-15.66595786,10.98094055,FALSE,1,papsoumah@gmail.com,58:48.5,623.1,Sentinel 2,2018 - December,,,,125,1-Dec,0,"7, 8, 9",0,Open water - marine,Sea
+137483300,514485708,-0.375908367,10.96418102,FALSE,1,papsoumah@gmail.com,05:01.0,401.5,Sentinel 2,2018 - December,,,,126,"1-4, 7, 8","5, 6, 9-12",7,0,Open water - freshwater,River
+137483301,514485709,-14.98223371,10.86627591,FALSE,1,papsoumah@gmail.com,17:13.1,761.1,Sentinel 2,2018 - December,,,,127,1-Dec,0,6-Sep,0,Open water - marine,
+137483302,514485710,-14.56808156,10.84210368,FALSE,1,papsoumah@gmail.com,22:12.1,328.1,Sentinel 2,2018 - December,,,,128,1-Dec,0,6-Sep,0,Open water - freshwater,
+137483303,514485711,-9.18690199,10.76624872,FALSE,1,papsoumah@gmail.com,28:25.5,402.4,Sentinel 2,2018 - December,,,,129,1-Dec,0,"7, 8",0,Open water - freshwater,
+137483304,514485712,-9.588928059,10.67773489,FALSE,1,papsoumah@gmail.com,32:56.4,300,Sentinel 2,2018 - December,,,,130,7-Dec,1-Jun,"6, 8",0,Open water - freshwater,River
+137483305,514485713,11.50982292,10.66936327,FALSE,1,papsoumah@gmail.com,38:29.0,361.5,Sentinel 2,2018 - December,,,,131,"1-3, 6-12","4, 5",0,0,Open water - Constructed (e.g. aquaculture),Impoundment
+137483306,514485714,7.590923788,10.65668666,FALSE,1,papsoumah@gmail.com,44:37.2,397.3,Sentinel 2,2018 - December,,,,132,1-Dec,0,"5, 7, 8, 9",0,Open water - Constructed (e.g. aquaculture),Impoundment
+137483307,514485715,-8.662682382,10.58613757,FALSE,1,papsoumah@gmail.com,14:02.8,1794.6,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,133,1-Dec,0,"2, 6-9",0,Open water - freshwater,Monthly Images used
+137483308,514485716,12.13105114,10.54811937,FALSE,2,yadjemi@gmail.com,52:19.8,7627.6,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,134,1-Dec,0,"1, 2, 4, 5, 7-11",0,Open water - freshwater,
+137483308,514485716,12.13105114,10.54811937,FALSE,2,yadjemi@gmail.com,52:19.8,7627.6,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,134,1-Dec,0,"1,4,5,7,8,9,10,11",0,Open water - freshwater,NA
+137483309,514485717,-14.53450166,10.51154014,FALSE,1,papsoumah@gmail.com,39:58.9,492.3,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,135,0,1-Dec,"1, 2, 4-10, 12",0,Barren (Bare soil / Rocky Land),
+137483310,514485718,7.821941089,10.5077151,FALSE,1,papsoumah@gmail.com,12:30.0,844.9,1-Jan2018 Sentinel2,,COPERNICUS/S2,5/01/2018,1/01/2018,136,6-Nov,1-May,"4-10, 12",0,Open water - freshwater,"River;, Monthly Sentinel Images used"
+137483311,514485719,-14.57523284,10.48930777,FALSE,1,papsoumah@gmail.com,49:51.8,83.9,1-Jan2018 Sentinel2,,COPERNICUS/S2,5/01/2018,1/01/2018,137,0,1-Dec,"1,2, 4-11",0,Open water - freshwater,Sentinel Monthly images 
+137483312,514485720,-10.1831058,10.43863333,FALSE,1,papsoumah@gmail.com,54:47.3,306.8,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,138,1-Dec,0,2-Dec,0,Open water - freshwater,Sentinel Monthly Images used
+137483313,514485721,-10.53880404,10.42190298,FALSE,1,papsoumah@gmail.com,05:49.9,691.7,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,139,"1, 2, 9-12",3-Jun,"2-4, 7-9, 11, 12","3, 4, 7, 8",Open water - freshwater,River; Sentinel Monthly Images used
+137483314,514485722,-10.57269487,10.41568907,FALSE,1,papsoumah@gmail.com,11:50.5,389.7,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,140,"1-3, 7-12",4-Jun,2-Dec,0,Open water - freshwater,"River,; Sentinel Monthly Images used"
+137483315,514485723,7.718092127,10.36454839,FALSE,1,yadjemi@gmail.com,09:24.5,1060.5,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,141,0,1-Dec,"4,5,6,7,8,9,10,11,12",0,Cultivated (Cropland/ Plantation)  ,NA
+137483316,514485724,-5.540995037,10.32058347,FALSE,1,papsoumah@gmail.com,18:17.7,396.4,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,142,1-Dec,0,"2, 3, 6-11",0,Open water - Constructed (e.g. aquaculture),Sentinel Monthly Images used
+137483317,514485725,-1.111556998,10.29358624,FALSE,1,papsoumah@gmail.com,23:11.0,322.3,1-Jan2018 Sentinel2,,COPERNICUS/S2,5/01/2018,1/01/2018,143,1-Dec,0,"1, 2, 4-10",0,Open water - freshwater,Sentinel Monthly Images used
+137483318,514485726,-9.706768647,10.24819774,FALSE,1,papsoumah@gmail.com,28:29.5,347.6,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,144,"1, 6-12",2-May,"2-4, 6-9, 11, 12",0,Open water - freshwater,Sentinel Monthly Image used
+137483319,514485727,-14.20150094,10.24103171,FALSE,1,papsoumah@gmail.com,33:37.5,337.1,11-Nov2018 Sentinel2,,COPERNICUS/S2,5/11/2018,1/11/2018,145,1-Dec,0,"4, 7-10",0,Open water - freshwater,Sentinel Monthly Image used
+137483320,514485728,11.7492352,10.2312384,FALSE,1,yadjemi@gmail.com,28:16.5,9785.8,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,146,"2,3,6,9,10,12","1,4,5,7,8,11","1,4,5,6,7,8,9,11",0,Open water - freshwater,NA
+137483321,514485729,-14.30068603,10.18776919,FALSE,1,yadjemi@gmail.com,29:45.2,4854.3,1-Jan2018 Sentinel2,,COPERNICUS/S2,5/01/2018,1/01/2018,147,1-Dec,"7,8,9","2,6,7,8,9,10,11","7,8,9",Wetlands - freshwater,NA
+137483322,514485730,-0.894220399,10.12448642,FALSE,1,yadjemi@gmail.com,09:39.7,444.6,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,148,0,"1,4,5,6,7,8,9,10,11,12","1,4,5,6,7,8,9,10,11,12",0,Cultivated (Cropland/ Plantation)  ,NA
+137483323,514485731,-14.12376969,10.08509009,FALSE,1,yadjemi@gmail.com,23:30.5,860.9,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,149,"1,2,3,4,5,6,12","7,8,9,10,11","2,6,7,8,9,10,11",0,Open water - freshwater,NA
+137483324,514485732,4.467370893,10.07792762,FALSE,1,papsoumah@gmail.com,50:47.0,914.8,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,150,"1-4, 7-12","5, 6","1, 2, 4, 6, 7, 8, 9, 11",0,Open water - freshwater,Monthly Sentinel images used 
+137483325,514485733,6.972493895,10.04808569,FALSE,1,papsoumah@gmail.com,00:39.2,620.7,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,151,"1, 2, 8-12",3-Jul,"4, 6-10, 12",0,Open water - Constructed (e.g. aquaculture),Monthly Sentinel images used
+137483326,514485734,6.879838235,10.03256894,FALSE,1,papsoumah@gmail.com,07:16.4,426.8,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,152,1-Dec,0,"4, 6-10, 12",0,Open water - Constructed (e.g. aquaculture),Monthly Sentinel images used
+137483327,514485735,6.952283768,10.02612374,FALSE,1,papsoumah@gmail.com,13:46.8,419.2,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,153,"1, 2, 7-12",3-Jun,"4, 6-10, 12",0,Open water - freshwater,
+137483328,514485736,-13.92664321,10.02230441,FALSE,1,papsoumah@gmail.com,21:27.5,489.7,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,154,1-Dec,0,"2, 6-10",0,Open water - freshwater,
+137483329,514485737,6.534400522,9.963587848,FALSE,1,papsoumah@gmail.com,31:05.9,607.5,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,155,1-Dec,0,"4, 6-10, 12",0,Open water - freshwater,
+137483330,514485738,-12.99044794,9.946881767,FALSE,1,papsoumah@gmail.com,37:18.8,402.1,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,156,1-Dec,0,"2, 6-10",0,Open water - Constructed (e.g. aquaculture),
+137483331,514485739,-13.70215534,9.873623473,FALSE,1,papsoumah@gmail.com,41:27.3,278.8,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,157,1-Dec,0,"2, 6-10",0,Open water - freshwater,
+137483332,514485740,-13.64836531,9.844276892,FALSE,1,papsoumah@gmail.com,05:32.8,568.7,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,158,1-Dec,0,6-Oct,0,Open water - freshwater,
+137483333,514485741,-2.737694927,9.8135015,FALSE,1,papsoumah@gmail.com,17:06.6,723.7,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,159,1-Dec,0,"1, 4, 5, 7-10",0,Open water - freshwater,
+137483334,514485742,-13.587424,9.807060491,FALSE,1,papsoumah@gmail.com,22:41.8,365.1,11-Nov2018 Sentinel2,,COPERNICUS/S2,5/11/2018,1/11/2018,160,1-Dec,0,"2, 6-11",0,Open water - freshwater,
+137483335,514485743,8.463379435,9.801812352,FALSE,1,papsoumah@gmail.com,30:56.3,522.7,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,161,0,1-Dec,"1, 4-10",0,Herbaceous/Grassland,
+137483336,514485744,-0.963245756,9.79680284,FALSE,1,papsoumah@gmail.com,36:43.9,376.2,11-Nov2018 Sentinel2,,COPERNICUS/S2,5/11/2018,1/11/2018,162,1-Dec,0,"1, 4-9",0,Open water - freshwater,
+137483337,514485745,12.0300005,9.785114266,FALSE,1,papsoumah@gmail.com,47:31.8,678.1,3-March2018 Sentinel2,,COPERNICUS/S2,5/03/2018,1/03/2018,163,0,1-Dec,"1, 4-10",0,Shrubs,
+137483338,514485746,4.637757812,9.769609632,FALSE,1,papsoumah@gmail.com,54:23.6,441.5,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,164,1-Dec,0,"1, 2, 4, 6-9, 11, 12",0,Open water - freshwater,
+137483339,514485747,8.96707799,9.766270265,FALSE,1,papsoumah@gmail.com,17:03.0,465.2,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,165,1-Dec,0,"1, 4-10",0,Open water - Constructed (e.g. aquaculture),
+137483340,514485748,12.06513503,9.645836232,FALSE,1,papsoumah@gmail.com,22:39.3,364.7,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,166,1-Dec,0,"1, 4, 5, 7, 8",0,Open water - freshwater,
+137483341,514485749,-1.020145038,9.569543315,FALSE,1,papsoumah@gmail.com,29:50.9,462.6,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,167,1-Dec,0,"1, 2, 4, 6-9",0,Open water - Constructed (e.g. aquaculture),
+137483342,514485750,-13.44439849,9.492552064,FALSE,1,papsoumah@gmail.com,36:03.0,403.5,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,168,0,1-Dec,"1, 2, 4, 6-11",0,Cultivated (Cropland/ Plantation)  ,
+137483343,514485751,11.96470625,9.490168704,FALSE,1,papsoumah@gmail.com,44:44.0,552.4,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,169,1-Nov,12,"1, 4, 5, 7-10",0,Open water - freshwater,
+137483344,514485752,-12.75538861,9.391749965,FALSE,1,papsoumah@gmail.com,48:47.8,275,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,170,1-Dec,0,"1, 2, 6-11",0,Open water - freshwater,
+137483345,514485753,12.81881732,9.382934123,FALSE,1,papsoumah@gmail.com,56:23.0,485.6,8-Aug2018 Sentinel2,,COPERNICUS/S2,5/08/2018,1/08/2018,171,7-Nov,"1-6, 12","1, 4-10",0,Open water - freshwater,
+137483346,514485754,-13.21151563,9.375071529,FALSE,1,papsoumah@gmail.com,02:50.5,418.6,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,172,1-Dec,0,"1, 2, 4, 6-10",0,Open water - freshwater,
+137483347,514485755,12.37357267,9.356249661,FALSE,1,papsoumah@gmail.com,09:28.9,426.5,2-Feb2018 Sentinel2,,COPERNICUS/S2,5/02/2018,1/02/2018,173,"1-3, 7-12",4-Jun,"1, 4, 5, 7-9",0,Open water - freshwater,
+137483348,514485756,0.223244175,9.304077764,FALSE,1,papsoumah@gmail.com,15:45.1,403.6,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,174,1-Dec,0,"1, 4, 6-11",0,Open water - freshwater,
+137483349,514485757,-1.268885065,9.303601343,FALSE,1,papsoumah@gmail.com,24:46.2,1735,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,175,1-Dec,0,"1, 4, 6-10",0,Open water - freshwater,
+137483350,514485758,8.550438444,9.280495698,FALSE,1,papsoumah@gmail.com,31:26.7,429.2,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,176,0,1-Dec,"1, 4, 5, 7-10",0,Cultivated (Cropland/ Plantation)  ,
+137483351,514485759,-12.52064021,9.265251548,FALSE,1,papsoumah@gmail.com,36:57.6,362.4,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,177,"1-3, 5-12",4,"1, 2, 6-9",0,Open water - freshwater,
+137483352,514485760,-13.23980981,9.219284806,FALSE,1,papsoumah@gmail.com,47:55.2,687.7,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,178,"1-3, 7-12",4-Jun,"4, 6-11",0,Open water - freshwater,
+137483353,514485761,-11.71130234,9.213569142,FALSE,1,papsoumah@gmail.com,55:39.9,495.9,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,179,"1-4, 7-12","5, 6","1, 2, 7-9, 11, 12",0,Open water - freshwater,
+137483354,514485762,0.190597046,9.197137111,FALSE,1,papsoumah@gmail.com,02:56.3,468.1,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,180,1-Dec,0,"1, 4, 6-11",0,Open water - freshwater,
+137483355,514485763,-1.426834983,9.144988189,FALSE,1,papsoumah@gmail.com,07:05.9,3331.3,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,181,0,1-Dec,"1, 2, 4, 6-9",0,Shrubs,
+137483356,514485764,-7.515990855,9.12284501,FALSE,1,papsoumah@gmail.com,20:42.6,851,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,182,0,1-Dec,"2, 4-8",0,Cultivated (Cropland/ Plantation)  ,
+137483357,514485765,11.0661329,9.056661536,FALSE,1,papsoumah@gmail.com,31:15.0,664.8,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,183,1-Dec,0,"1-9, 11",0,Wetlands - freshwater,
+137483358,514485766,-3.891848655,9.055233247,FALSE,1,papsoumah@gmail.com,33:26.3,590,Sentinel 2,2018 - October,,,,184,1-Dec,0,"1, 2, 4, 5, 7-11",0,Open water - freshwater,
+137483359,514485767,10.97658649,9.032143338,FALSE,1,papsoumah@gmail.com,37:56.7,434.3,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,185,7-Dec,1-Jun,"1, 4-11",0,Open water - freshwater,

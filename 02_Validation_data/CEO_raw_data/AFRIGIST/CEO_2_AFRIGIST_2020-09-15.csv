@@ -1,0 +1,188 @@
+PLOT_ID,SAMPLE_ID,LON,LAT,FLAGGED,ANALYSES,USER_ID,COLLECTION_TIME,ANALYSIS_DURATION,IMAGERY_TITLE,SENTINEL2MOSAICYEARMONTH,GEEIMAGECOLLECTIONASSETID,GEEIMAGECOLLECTIONENDDATE,GEEIMAGECOLLECTIONSTARTDATE,PL_PLOTID,"ENTER MONTHS[1-12] IN 2018, WATER WAS OBSERVED?","ENTER MONTHS[1-12] IN 2018, WATER WAS NOT OBSERVED?","ENTER MONTHS[1-12] IN 2018, IMAGE WAS BAD?","ENTER MONTHS[1-12] IN 2018, THAT YOU ARE UNSURE IF YOU OBSERVE WATER OR NOT? ",WHAT IS THE FEATURE?,COMMENT
+137482805,514485213,16.04310992,-9.742657097,FALSE,1,deborahalaigba@gmail.com,04:44.0,1765.8,Sentinel 2,2018 - 2018,,,,1,1-Nov,12,"1-3, 12",0,Open water - freshwater,NA
+137482806,514485214,15.55899964,-9.774857276,FALSE,1,deborahalaigba@gmail.com,38:41.7,516.6,Sentinel 2,2018 - 2018,,,,2,"2, 4-11","1,3,12","1-4, 8,9,11,12",0,Open water - freshwater,"Months 1, 3 and 12 had no Sentinel 2 Images"
+137482807,514485215,28.58302748,-9.918960602,FALSE,1,deborahalaigba@gmail.com,43:52.1,323.5,Sentinel 2,2018 - 2018,,,,3,"1-2, 4-12",3,"1-4, 12",0,Open water - freshwater,There was no Sentinel 2 image for Month 3
+137482808,514485216,16.32387523,-9.971702531,FALSE,1,deborahalaigba@gmail.com,51:11.9,110.4,Sentinel 2,2018 - 2018,,,,4,1-Dec,0,"1, 3, 10-12",0,Open water - freshwater,NA
+137482809,514485217,27.23516746,-10.0299431,FALSE,1,deborahalaigba@gmail.com,59:48.8,530,Sentinel 2,2018 - 2018,,,,5,"1,2, 4-11","3, 12","1-4, 12",0,Open water - freshwater,There was no Sentinel 2 image for Month 3 and 12
+137482810,514485218,22.30203086,-10.32488412,FALSE,1,deborahalaigba@gmail.com,10:03.3,187.8,Sentinel 2,2018 - 2018,,,,6,"1,3-11","2, 12","2, 3, 12",0,Open water - freshwater,There was no Sentinel 2 image for Months 2 and 12
+137482811,514485219,16.44793432,-10.35331765,FALSE,1,deborahalaigba@gmail.com,15:10.5,319.9,Sentinel 2,2018 - 2018,,,,7,1-Dec,0,"2-3, 11",0,Open water - freshwater,NA
+137482812,514485220,15.83976495,-10.37625745,FALSE,1,deborahalaigba@gmail.com,20:10.0,312.9,Sentinel 2,2018 - 2018,,,,8,0,1-Dec,"2-3, 12",0,Shrubs,NA
+137482813,514485221,25.71070201,-10.68275798,FALSE,1,deborahalaigba@gmail.com,30:35.5,256.2,Sentinel 2,2018 - 2018,,,,9,2-Dec,1,"1, 3, 9, 12",0,Open water - freshwater,There was no Sentinel 2 image for Month 1
+137482814,514485222,26.39100599,-10.7389742,FALSE,1,deborahalaigba@gmail.com,52:22.2,1320,Sentinel 2,2018 - 2018,,,,10,2-Nov,"1, 12","1-3, 12",0,Open water - freshwater,There was no Sentinel 2 image for Months 1 and 12
+137482815,514485223,17.11300297,-10.81266878,FALSE,1,deborahalaigba@gmail.com,05:10.2,780.7,Sentinel 2,2018 - 2018,,,,11,"1, 3-11","2, 12","2, 10, 12",0,Open water - freshwater,There was no Sentinel 2 image for Months 2 and 12
+137482816,514485224,13.95400462,-10.95556219,FALSE,1,tohozinbernadin@gmail.com,51:30.8,1051.2,Sentinel 2,2018 - 2018,,,,12,1-Dec,0,"2,3,5,8-12",0,Open water - freshwater,NA
+137482817,514485225,14.88273769,-11.19219058,FALSE,1,tohozinbernadin@gmail.com,05:21.4,821.4,Sentinel 2,2018 - 2018,,,,13,"1,2,4-12",3,3,0,Open water - freshwater,NA
+137482818,514485226,23.41514249,-11.40215225,FALSE,1,tohozinbernadin@gmail.com,37:35.8,1926.4,Sentinel 2,2018 - 2018,,,,14,"6,7,10","1-5, 8,9,11,12",12,"1-5,8,9,11,12",I am unsure,NA
+137482819,514485227,22.04178661,-11.4966362,FALSE,1,tohozinbernadin@gmail.com,45:59.2,493.9,Sentinel 2,2018 - 2018,,,,15,"1,3-11","2,12","1-3,12","2,12",Open water - freshwater,NA
+137482820,514485228,27.40928548,-11.74882519,FALSE,1,tohozinbernadin@gmail.com,57:36.6,689.5,Sentinel 2,2018 - 2018,,,,16,"1-10,12",11,"1-5,10-12",11,Open water - freshwater,NA
+137482821,514485229,29.74060138,-12.20578896,FALSE,1,tohozinbernadin@gmail.com,16:48.2,1143.8,Sentinel 2,2018 - 2018,,,,17,3-Nov,"1,2,12","1-4,11,12","1,2,12",Open water - freshwater,NA
+137482822,514485230,17.4537768,-12.22719019,FALSE,1,tohozinbernadin@gmail.com,23:51.7,415.6,Sentinel 2,2018 - 2018,,,,18,3-Dec,"1,2","1,2,4,12","1,2",Open water - freshwater,NA
+137482823,514485231,13.56659202,-12.35106203,FALSE,1,tohozinbernadin@gmail.com,30:28.6,389,Sentinel 2,2018 - 2018,,,,19,1-Dec,0,"3,6-11",0,Open water - marine,NA
+137482824,514485232,15.89759701,-13.37289105,FALSE,1,tohozinbernadin@gmail.com,43:21.3,763.9,Sentinel 2,2018 - 2018,,,,20,3-Dec,"1,2","1-5,11,12","1,2",Open water - freshwater,NA
+137482825,514485233,15.8864037,-13.45019589,FALSE,1,tohozinbernadin@gmail.com,56:18.0,768.9,Sentinel 2,2018 - 2018,,,,21,1-Dec,0,"1-5,11,12",0,Open water - freshwater,NA
+137482826,514485234,12.54706884,-13.56233116,FALSE,1,tohozinbernadin@gmail.com,04:28.2,744.1,Sentinel 2,2018 - 2018,,,,22,1-Dec,0,"1,2,7,9,11",0,Open water - marine,NA
+137482827,514485235,14.53108148,-13.85765919,FALSE,1,tohozinbernadin@gmail.com,16:46.5,749.4,Sentinel 2,2018 - 2018,,,,23,1-Dec,0,"1,3,4",0,Open water - freshwater,NA
+137482828,514485236,15.06338514,-14.6834476,FALSE,1,tohozinbernadin@gmail.com,23:50.1,434.7,Sentinel 2,2018 - 2018,,,,24,1-Dec,0,"3,4",0,Open water - freshwater,NA
+137482829,514485237,12.20100927,-14.91893151,FALSE,1,tohozinbernadin@gmail.com,33:27.9,588.9,Sentinel 2,2018 - 2018,,,,25,1-Dec,0,2-Dec,0,Open water - marine,NA
+137482830,514485238,12.40901812,-15.08725336,FALSE,1,tohozinbernadin@gmail.com,54:33.0,1275,Sentinel 2,2018 - 2018,,,,26,"1,3,4,5,6,7,9,10,11","2,8,12","2,4-9","2,8,12",Open water - freshwater,NA
+137482831,514485239,13.21027193,-15.15734462,FALSE,1,tohozinbernadin@gmail.com,07:04.8,763.1,Sentinel 2,2018 - 2018,,,,27,1-Dec,0,1-Dec,0,Open water - freshwater,NA
+137482832,514485240,12.02036183,-15.54447413,FALSE,1,tohozinbernadin@gmail.com,27:56.2,1262.7,Sentinel 2,2018 - 2018,,,,28,1-Dec,0,"1-4,7-12",0,Open water - marine,NA
+137482833,514485241,12.34310201,-15.66253174,FALSE,1,tohozinbernadin@gmail.com,53:45.2,1560.3,Sentinel 2,2018 - 2018,,,,29,0,1-Dec,"1,2,4-6,8-10","1,2,3,4,5,6,7,8,9,10,11,12",Barren (Bare soil / Rocky Land),NA
+137482834,514485242,11.78934453,-15.7840737,FALSE,1,tohozinbernadin@gmail.com,05:36.2,722.4,Sentinel 2,2018 - 2018,,,,30,1-Dec,0,"4,5,8,9",0,Open water - marine,NA
+137482835,514485243,15.20392325,-15.92718409,FALSE,1,tohozinbernadin@gmail.com,17:35.7,730.9,Sentinel 2,2018 - 2018,,,,31,1-Sep,10-Dec,"1-4,10-12","11,12",Open water - freshwater,NA
+137482836,514485244,12.22712698,-15.986802,FALSE,1,tohozinbernadin@gmail.com,51:22.8,2038.7,Sentinel 2,2018 - 2018,,,,32,1-Dec,0,"5,7,8,9",0,Wetlands - freshwater,NA
+137482837,514485245,18.98974647,-16.39433274,FALSE,1,tohozinbernadin@gmail.com,23:01.8,1910.6,Sentinel 2,2018 - 2018,,,,33,1-Dec,0,"1-5,9,12",0,Open water - freshwater,NA
+137482838,514485246,12.53183351,-16.57978114,FALSE,1,tohozinbernadin@gmail.com,37:34.1,862.4,Sentinel 2,2018 - 2018,,,,34,1-Dec,0,"3,4",0,Open water - freshwater,NA
+137482839,514485247,11.7380419,-16.67637139,FALSE,1,tohozinbernadin@gmail.com,46:03.4,521.7,Sentinel 2,2018 - 2018,,,,35,1-Dec,0,"3,4,8,9,11,12",0,Open water - marine,NA
+137482840,514485248,12.00605928,-16.75534596,FALSE,1,tohozinbernadin@gmail.com,07:51.1,1320.1,Sentinel 2,2018 - 2018,,,,36,1-Dec,0,"3,5,8,9",0,Open water - freshwater,NA
+137482841,514485249,19.2807723,-16.86404962,FALSE,1,deborahalaigba@gmail.com,28:53.2,523.1,Sentinel 2,2018 - 2018,,,,37,"1,3-12",2,"1-4, 11",0,Open water - freshwater,There was no Sentinel 2 image for Month 2
+137482842,514485250,18.21554314,-17.12391022,FALSE,1,deborahalaigba@gmail.com,43:27.8,279,Sentinel 2,2018 - 2018,,,,38,1-Dec,0,3-Apr,0,Open water - freshwater,NA
+137482843,514485251,13.92913061,-17.39889331,FALSE,1,deborahalaigba@gmail.com,58:09.8,353.5,Sentinel 2,2018 - 2018,,,,39,1-Dec,0,0,0,Open water - freshwater,NA
+137482844,514485252,19.49157948,-17.86492728,FALSE,1,deborahalaigba@gmail.com,02:33.7,271.9,Sentinel 2,2018 - 2018,,,,40,1-Dec,0,0,0,Open water - freshwater,NA
+137482845,514485253,21.12020481,-17.87307057,FALSE,1,deborahalaigba@gmail.com,14:01.4,489.7,Sentinel 2,2018 - 2018,,,,41,0,1-Dec,1-Apr,0,Shrubs,Looks like a water collection point that has dried out
+137482846,514485254,28.7272967,-9.611025511,FALSE,1,deborahalaigba@gmail.com,25:46.8,717.3,Sentinel 2,2018 - 2018,,,,42,"1-2, 4-12",3,"1-4, 11-12",0,Open water - freshwater,There was no Sentinel 2 image for Month 3
+137482847,514485255,28.68718737,-9.874100674,FALSE,1,deborahalaigba@gmail.com,33:29.2,474.3,Sentinel 2,2018 - 2018,,,,43,"1-2, 4-12",3,"1, 3, 12",0,Open water - freshwater,There was no Sentinel 2 image for Month 3
+137482848,514485256,28.62593514,-10.14764889,FALSE,1,deborahalaigba@gmail.com,41:53.6,514.3,Sentinel 2,2018 - 2018,,,,44,"1-2, 4-12",3,"1, 3-4, 11-12",0,Open water - freshwater,There was no Sentinel 2 image for Month 3
+137482849,514485257,29.66691215,-11.07265559,FALSE,1,deborahalaigba@gmail.com,48:41.0,419.1,Sentinel 2,2018 - 2018,,,,45,1-Nov,12,"1-4, 12",0,Open water - freshwater,There was no Sentinel 2 image for Month 12
+137482850,514485258,29.61592045,-11.23244562,FALSE,1,deborahalaigba@gmail.com,54:58.8,389.8,Sentinel 2,2018 - 2018,,,,46,1-Nov,12,"1-3, 11-12",0,Open water - freshwater,There was no Sentinel 2 image for Month 12
+137482851,514485259,29.80496287,-11.53093622,FALSE,1,deborahalaigba@gmail.com,06:03.1,341.9,Sentinel 2,2018 - 2018,,,,47,1-Nov,12,"1-3, 12",0,Open water - freshwater,There was no Sentinel 2 image for Month 12
+137482852,514485260,30.27103949,-11.55828322,FALSE,1,tohozinbernadin@gmail.com,12:45.2,755.8,Sentinel 2,2018 - 2018,,,,48,1-Dec,0,"1-5,7,12",0,Open water - freshwater,NA
+137482853,514485261,29.92902196,-11.79371955,FALSE,1,deborahalaigba@gmail.com,14:43.1,531.9,Sentinel 2,2018 - 2018,,,,49,2-Aug,"1, 9-12","1, 9-12",0,Open water - freshwater,There was no Sentinel 2 image for Month 12
+137482854,514485262,24.49995993,-12.75265821,FALSE,1,tohozinbernadin@gmail.com,34:11.6,743.2,Sentinel 2,2018 - 2018,,,,50,"1,11","2-10,12","1-5,7-12","2-10,12",Wetlands - freshwater,NA
+137482855,514485263,22.82345215,-13.16115083,FALSE,1,tohozinbernadin@gmail.com,59:25.6,1526.3,Sentinel 2,2018 - 2018,,,,51,1-Dec,0,"1-5,7-12",0,Open water - freshwater,NA
+137482856,514485264,29.48906303,-13.6578318,FALSE,1,tohozinbernadin@gmail.com,10:33.3,680.2,Sentinel 2,2018 - 2018,,,,52,"1,3-12",2,"1-5,7,10-12",2,Open water - freshwater,NA
+137482857,514485265,28.37284216,-13.71297336,FALSE,1,tohozinbernadin@gmail.com,45:00.7,2079.6,Sentinel 2,2018 - 2018,,,,53,"9,11","1-8,10,12","1-5,7,10-12","1-8,10,12",I am unsure,NA
+137482858,514485266,22.4416362,-13.71345712,FALSE,1,tohozinbernadin@gmail.com,58:13.5,805.4,Sentinel 2,2018 - 2018,,,,54,"1,3-12",2,"1-5,9-12",2,Open water - freshwater,NA
+137482859,514485267,30.65503191,-14.13542223,FALSE,1,tohozinbernadin@gmail.com,18:34.1,745.9,Sentinel 2,2018 - 2018,,,,55,1-Dec,0,"1-5,8-12",0,Open water - freshwater,NA
+137482860,514485268,27.00197368,-14.41861091,FALSE,1,deborahalaigba@gmail.com,47:50.9,442.7,Sentinel 2,2018 - 2018,,,,56,1-Dec,0,"1-4, 12",0,Open water - freshwater,NA
+137482861,514485269,28.82337253,-14.65891713,FALSE,1,tohozinbernadin@gmail.com,30:55.0,749.6,Sentinel 2,2018 - 2018,,,,57,1-Dec,0,"1-5,7,10-12",0,Open water - freshwater,NA
+137482862,514485270,29.84196295,-14.69607819,FALSE,1,tohozinbernadin@gmail.com,41:21.8,640,Sentinel 2,2018 - 2018,,,,58,1-Dec,0,"1-4,7,10-12",0,Open water - freshwater,NA
+137482863,514485271,23.01840214,-14.79496153,FALSE,1,tohozinbernadin@gmail.com,02:47.4,1298.7,Sentinel 2,2018 - 2018,,,,59,1-Dec,0,"1-5,7,10-12",0,Open water - freshwater,NA
+137482864,514485272,35.7681941,-15.09333678,FALSE,1,tohozinbernadin@gmail.com,13:54.8,680.6,Sentinel 2,2018 - 2018,,,,60,1-Dec,0,1-Dec,0,Open water - freshwater,NA
+137482865,514485273,22.98855334,-15.36678024,FALSE,1,tohozinbernadin@gmail.com,29:25.2,941.9,Sentinel 2,2018 - 2018,,,,61,1-Dec,0,"1-5,7,9-12",0,Open water - freshwater,NA
+137482866,514485274,26.00794635,-15.63227926,FALSE,1,tohozinbernadin@gmail.com,40:13.3,661.4,Sentinel 2,2018 - 2018,,,,62,1-Dec,0,"1-5,7,10-12",0,Open water - freshwater,NA
+137482867,514485275,26.80951109,-15.66399568,FALSE,1,deborahalaigba@gmail.com,56:54.4,414.4,Sentinel 2,2018 - 2018,,,,63,"1, 3-12",2,"1-3, 12",0,Open water - freshwater,There was no Sentinel 2 image for Month 2
+137482868,514485276,26.32260248,-15.74184327,FALSE,1,deborahalaigba@gmail.com,02:50.6,368.3,Sentinel 2,2018 - 2018,,,,64,"1, 3-12",2,"1-3, 12",0,Open water - freshwater,There was no Sentinel 2 image for Month 2
+137482869,514485277,27.23983133,-15.75038631,FALSE,1,deborahalaigba@gmail.com,15:16.0,395.9,Sentinel 2,2018 - 2018,,,,65,"1, 3-12","2-3, 5, 12","2-3, 5, 12",0,Open water - freshwater,There was no Sentinel 2 image for Month 2
+137482870,514485278,29.23348265,-15.7667411,FALSE,1,deborahalaigba@gmail.com,18:57.7,232.3,Sentinel 2,2018 - 2018,,,,66,1-Dec,0,2,0,Open water - freshwater,NA
+137482871,514485279,25.87829061,-15.8656296,FALSE,1,deborahalaigba@gmail.com,24:52.4,239.6,Sentinel 2,2018 - 2018,,,,67,"1, 2-12",2,"2-4, 12",0,Open water - freshwater,There was no Sentinel 2 image for Month 2
+137482872,514485280,33.36318896,-15.93255876,FALSE,1,deborahalaigba@gmail.com,31:13.5,392.6,Sentinel 2,2018 - 2018,,,,68,1-Dec,0,"2, 12",0,Open water - freshwater,NA
+137482873,514485281,23.25190684,-15.98020409,FALSE,1,deborahalaigba@gmail.com,40:03.9,164.8,Sentinel 2,2018 - 2018,,,,69,1-Dec,0,"3, 12",0,Open water - freshwater,NA
+137482874,514485282,40.1077748,-16.00366431,FALSE,1,deborahalaigba@gmail.com,45:24.8,333.6,Sentinel 2,2018 - 2018,,,,70,1-Dec,0,"1-4, 12",0,Open water - freshwater,NA
+137482875,514485283,37.11543227,-16.15524317,FALSE,1,deborahalaigba@gmail.com,57:02.2,258.6,Sentinel 2,2018 - 2018,,,,71,1-Dec,0,2-Jul,0,Open water - freshwater,NA
+137482876,514485284,23.33523475,-16.35417909,FALSE,1,deborahalaigba@gmail.com,02:12.1,319.9,Sentinel 2,2018 - 2018,,,,72,1-Dec,0,"2-4, 12",0,Open water - freshwater,NA
+137482877,514485285,28.76429678,-16.54179541,FALSE,1,deborahalaigba@gmail.com,14:14.0,337.8,Sentinel 2,2018 - 2018,,,,73,"1, 3-12",2,"2-3, 5, 12",0,Open water - freshwater,NA
+137482878,514485286,28.33801855,-16.55159748,FALSE,1,deborahalaigba@gmail.com,23:52.5,590.9,Sentinel 2,2018 - 2018,,,,74,1-Dec,0,"1-4, 12",0,Open water - freshwater,NA
+137482879,514485287,28.24163179,-16.59840907,FALSE,1,deborahalaigba@gmail.com,27:46.4,247.1,Sentinel 2,2018 - 2018,,,,75,1-Dec,0,"1-5, 12",0,Open water - freshwater,NA
+137482880,514485288,39.54748789,-16.62659943,FALSE,1,deborahalaigba@gmail.com,36:01.1,128.2,Sentinel 2,2018 - 2018,,,,76,1-Dec,0,"1-5, 7",0,Open water - marine,NA
+137482881,514485289,28.48974997,-16.77570794,FALSE,1,deborahalaigba@gmail.com,40:26.7,277,Sentinel 2,2018 - 2018,,,,77,1-Dec,0,"1-5, 12",0,Open water - freshwater,NA
+137482882,514485290,23.73632805,-16.78404961,FALSE,1,tohozinbernadin@gmail.com,46:18.4,646.6,Sentinel 2,2018 - 2018,,,,78,1-Dec,0,"1-5,7,10-12",0,Open water - freshwater,NA
+137482883,514485291,30.91776356,-16.94776598,FALSE,1,tohozinbernadin@gmail.com,51:56.2,352.2,Sentinel 2,2018 - 2018,,,,79,1-Dec,0,"1-5,7,10-12",0,Open water - freshwater,NA
+137482884,514485292,34.8167635,-16.98558528,FALSE,1,tohozinbernadin@gmail.com,56:58.1,316.4,Sentinel 2,2018 - 2018,,,,80,1-Dec,0,"1-7,10-12",0,Open water - freshwater,NA
+137482885,514485293,34.84443582,-16.9993396,FALSE,1,tohozinbernadin@gmail.com,00:44.7,241,Sentinel 2,2018 - 2018,,,,81,1-Dec,0,"1-8,10-12",0,Open water - freshwater,NA
+137482886,514485294,30.60621668,-17.0155513,FALSE,1,tohozinbernadin@gmail.com,06:06.3,336.1,Sentinel 2,2018 - 2018,,,,82,1-Dec,0,"1-5,7,11,12",2,Open water - freshwater,NA
+137482887,514485295,38.66725912,-17.08213193,FALSE,1,tohozinbernadin@gmail.com,10:45.2,293.4,Sentinel 2,2018 - 2018,,,,83,1-Dec,0,"1-5,7,10-12",0,Open water - freshwater,NA
+137482888,514485296,12.25137913,-17.30685975,FALSE,1,tohozinbernadin@gmail.com,25:55.8,925.2,Sentinel 2,2018 - 2018,,,,84,1-Dec,0,"3,7,11",0,I am unsure,NA
+137482889,514485297,30.01266079,-17.31202622,FALSE,1,tohozinbernadin@gmail.com,33:30.5,465.1,Sentinel 2,2018 - 2018,,,,85,1-Dec,0,"1-5,7,11,12",0,Open water - freshwater,NA
+137482890,514485298,27.45094943,-17.32211354,FALSE,1,tohozinbernadin@gmail.com,49:08.1,952.2,Sentinel 2,2018 - 2018,,,,86,1-Dec,0,"1-5,7-12",0,Open water - freshwater,NA
+137482891,514485299,24.16975754,-17.36862061,FALSE,1,tohozinbernadin@gmail.com,58:14.2,560.7,Sentinel 2,2018 - 2018,,,,87,1-Dec,0,"1-4,7,11,12",0,Open water - freshwater,NA
+137482892,514485300,31.39130239,-17.37600375,FALSE,1,tohozinbernadin@gmail.com,02:00.2,240.7,Sentinel 2,2018 - 2018,,,,88,1-Dec,0,"1-5,7,11,12",2,Open water - freshwater,NA
+137482893,514485301,14.90823355,-17.42473972,FALSE,1,tohozinbernadin@gmail.com,24:41.1,1375.6,Sentinel 2,2018 - 2018,,,,89,2-Dec,1,"1-5,11,12",1,Open water - freshwater,NA
+137482894,514485302,24.65542245,-17.49466603,FALSE,1,tohozinbernadin@gmail.com,31:24.5,418.2,Sentinel 2,2018 - 2018,,,,90,"1,3-12",2,"1-5,10-12",2,Open water - freshwater,NA
+137482895,514485303,11.73275617,-17.50131531,FALSE,1,tohozinbernadin@gmail.com,40:06.1,536.4,Sentinel 2,2018 - 2018,,,,91,1-Dec,0,"1-5,7-12",0,Open water - marine,NA
+137482896,514485304,15.65507548,-17.78425428,FALSE,1,tohozinbernadin@gmail.com,51:25.9,694.6,Sentinel 2,2018 - 2018,,,,92,3-Oct,"1,2,11,12","1-5,7,9-12","1,2,11,12",Open water - freshwater,NA
+137482897,514485305,25.29499524,-17.82076242,FALSE,1,tohozinbernadin@gmail.com,00:48.1,577.1,Sentinel 2,2018 - 2018,,,,93,"1,3-12",2,"1-5,11,12",2,Open water - freshwater,NA
+137482898,514485306,37.12755835,-17.8367987,FALSE,1,deborahalaigba@gmail.com,21:11.8,653.5,Sentinel 2,2018 - 2018,,,,94,1-Dec,0,1-Dec,0,Open water - marine,NA
+137482899,514485307,31.77249648,-17.97970736,FALSE,1,deborahalaigba@gmail.com,29:16.7,498.7,Sentinel 2,2018 - 2018,,,,95,"1, 3-12",2,"2-4, 11-12",0,Open water - freshwater,There was no Sentinel 2 image for Month 2
+137482900,514485308,31.75104266,-18.0515745,FALSE,1,deborahalaigba@gmail.com,36:21.4,439.3,Sentinel 2,2018 - 2018,,,,96,"1, 3-12",2,"2-4, 11, 12",0,Open water - freshwater,NA
+137482901,514485309,25.75454244,-18.06911344,FALSE,1,deborahalaigba@gmail.com,40:29.1,261.8,Sentinel 2,2018 - 2018,,,,97,"1, 3-12",2,2,0,Open water - freshwater,NA
+137482902,514485310,12.00295003,-18.12915404,FALSE,1,deborahalaigba@gmail.com,53:59.6,123,Sentinel 2,2018 - 2018,,,,98,0,1-Dec,"1-5, 7-11",0,Barren (Bare soil / Rocky Land),NA
+137482903,514485311,35.91277424,-18.26858516,FALSE,1,deborahalaigba@gmail.com,00:06.2,381.4,Sentinel 2,2018 - 2018,,,,99,1-Dec,0,"1-5, 7-10, 12",0,Open water - freshwater,NA
+137482904,514485312,16.01357204,-18.44476093,FALSE,1,deborahalaigba@gmail.com,10:13.2,92.4,Sentinel 2,2018 - 2018,,,,100,1-Dec,0,0,0,Open water - freshwater,NA
+137482905,514485313,16.7035147,-18.54579499,FALSE,1,deborahalaigba@gmail.com,15:26.6,328,Sentinel 2,2018 - 2018,,,,101,1-Dec,0,2-Apr,0,Open water - freshwater,NA
+137482906,514485314,36.38755677,-18.61244004,FALSE,1,deborahalaigba@gmail.com,19:44.3,270.5,Sentinel 2,2018 - 2018,,,,102,1-Dec,0,"1-8, 10, 12",0,Open water - freshwater,NA
+137482907,514485315,16.46876629,-18.63821298,FALSE,1,deborahalaigba@gmail.com,28:37.1,241.4,Sentinel 2,2018 - 2018,,,,103,1-Dec,0,"2-4,12",0,Open water - freshwater,NA
+137482908,514485316,16.11026973,-18.65977596,FALSE,1,deborahalaigba@gmail.com,34:19.8,357.4,Sentinel 2,2018 - 2018,,,,104,1-Dec,0,"2, 3, 12",0,Open water - freshwater,NA
+137482909,514485317,12.97334706,-18.67167393,FALSE,2,tohozinbernadin@gmail.com,05:20.6,818.2,Sentinel 2,2018 - 2018,,,,105,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),NA
+137482909,514485317,12.97334706,-18.67167393,FALSE,2,tohozinbernadin@gmail.com,05:20.6,818.2,Sentinel 2,2018 - 2018,,,,105,1-Oct,"11,12","1,3,4,9-12","11,12",Open water - freshwater,NA
+137482910,514485318,16.38295098,-18.80260548,FALSE,1,deborahalaigba@gmail.com,59:49.9,220.5,Sentinel 2,2018 - 2018,,,,106,1-Dec,0,2-Mar,0,Open water - freshwater,NA
+137482911,514485319,16.78342243,-18.82121176,FALSE,1,deborahalaigba@gmail.com,03:49.0,253.9,Sentinel 2,2018 - 2018,,,,107,1-Dec,0,2-Mar,0,Open water - freshwater,NA
+137482912,514485320,36.00698453,-18.84850461,FALSE,1,deborahalaigba@gmail.com,18:32.2,281.5,Sentinel 2,2018 - 2018,,,,108,1-Dec,0,"1-8, 10-12",0,Open water - freshwater,NA
+137482913,514485321,16.63106916,-18.88423998,FALSE,2,tohozinbernadin@gmail.com,42:53.7,1381.3,Sentinel 2,2018 - 2018,,,,109,1-Dec,0,"2, 3",0,Open water - freshwater,NA
+137482913,514485321,16.63106916,-18.88423998,FALSE,2,tohozinbernadin@gmail.com,42:53.7,1381.3,Sentinel 2,2018 - 2018,,,,109,"1-4,8-12",5-Jul,"1-5,7,10-12","5,6,7",Open water - freshwater,NA
+137482914,514485322,16.13421096,-18.99173916,FALSE,1,deborahalaigba@gmail.com,34:16.0,478.2,Sentinel 2,2018 - 2018,,,,110,1-Dec,0,2-Apr,0,Open water - freshwater,NA
+137482915,514485323,30.24429994,-19.01707214,FALSE,1,deborahalaigba@gmail.com,38:36.0,274.8,Sentinel 2,2018 - 2018,,,,111,1-Dec,0,"2-4, 11-12",0,Open water - freshwater,NA
+137482916,514485324,12.82565767,-19.03793743,FALSE,1,deborahalaigba@gmail.com,44:33.9,372.6,Sentinel 2,2018 - 2018,,,,112,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),NA
+137482917,514485325,29.01863346,-19.19376298,FALSE,1,tohozinbernadin@gmail.com,45:53.1,193.7,Sentinel 2,2018 - 2018,,,,113,1-Dec,0,"2,3,7-12",0,Open water - freshwater,NA
+137482918,514485326,22.68073756,-19.22211033,FALSE,1,deborahalaigba@gmail.com,54:23.0,143.6,Sentinel 2,2018 - 2018,,,,114,1-Dec,0,"2, 3",0,Open water - freshwater,NA
+137482919,514485327,13.21120471,-19.2544421,FALSE,1,tohozinbernadin@gmail.com,51:40.7,361.9,Sentinel 2,2018 - 2018,,,,115,1-Dec,0,"2,3,9-12",0,Wetlands - freshwater,NA
+137482920,514485328,23.16298228,-19.32061726,FALSE,1,tohozinbernadin@gmail.com,59:18.1,471.6,Sentinel 2,2018 - 2018,,,,116,1-Dec,0,"1-4,7,10-12",0,Wetlands - freshwater,NA
+137482921,514485329,22.91890613,-19.49986962,FALSE,1,tohozinbernadin@gmail.com,13:50.4,886.7,Sentinel 2,2018 - 2018,,,,117,1-Dec,0,"1-4,11,12",0,Wetlands - freshwater,NA
+137482922,514485330,22.84086395,-19.58383621,FALSE,1,deborahalaigba@gmail.com,59:42.0,333,Sentinel 2,2018 - 2018,,,,118,1-Dec,0,2,0,Open water - freshwater,NA
+137482923,514485331,13.42605391,-19.59779325,FALSE,1,deborahalaigba@gmail.com,20:57.0,957.2,Sentinel 2,2018 - 2018,,,,119,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),"This point is located by a river channel, but it has no water right now."
+137482924,514485332,29.3942309,-19.63244173,FALSE,1,deborahalaigba@gmail.com,35:55.2,914.5,Sentinel 2,2018 - 2018,,,,120,0,1-Dec,"2, 3",0,Shrubs,NA
+137482925,514485333,29.71292906,-19.79830733,FALSE,1,deborahalaigba@gmail.com,46:45.9,667,Sentinel 2,2018 - 2018,,,,121,1-Dec,0,"2-5, 7",0,Open water - freshwater,NA
+137482926,514485334,28.20369894,-19.91314016,FALSE,1,tohozinbernadin@gmail.com,15:51.0,988.1,Sentinel 2,2018 - 2018,,,,122,1-Dec,0,"1-5,79-12",0,Open water - freshwater,NA
+137482927,514485335,16.46907722,-19.9308716,FALSE,1,tohozinbernadin@gmail.com,29:04.5,808.8,Sentinel 2,2018 - 2018,,,,123,1-Dec,0,"2-4,10-12",0,Open water - freshwater,NA
+137482928,514485336,29.80154269,-20.1122937,FALSE,1,tohozinbernadin@gmail.com,34:10.0,320.8,Sentinel 2,2018 - 2018,,,,124,1-Dec,0,"1-5,7,10-12",0,Open water - freshwater,NA
+137482929,514485337,23.40674751,-20.13354798,FALSE,1,tohozinbernadin@gmail.com,40:13.3,378.8,Sentinel 2,2018 - 2018,,,,125,1-Dec,0,"1-4,10-12",0,Open water - freshwater,NA
+137482930,514485338,25.37428113,-20.14980316,FALSE,1,tohozinbernadin@gmail.com,54:58.6,900.7,Sentinel 2,2018 - 2018,,,,126,1-Sep,10-Dec,"13,8-12","10,11,12",Open water - freshwater,NA
+137482931,514485339,24.09140444,-20.22084518,FALSE,1,tohozinbernadin@gmail.com,10:27.3,944.2,Sentinel 2,2018 - 2018,,,,127,1-Dec,0,"1-4,10-12",0,Open water - freshwater,NA
+137482932,514485340,20.55152292,-20.33698209,FALSE,1,tohozinbernadin@gmail.com,37:05.4,1613.7,Sentinel 2,2018 - 2018,,,,128,1-Oct,"11,12","1-5,7,9-12","11,12",Open water - freshwater,NA
+137482933,514485341,26.16962737,-20.36703135,FALSE,1,tohozinbernadin@gmail.com,46:11.1,561.4,Sentinel 2,2018 - 2018,,,,129,1-Dec,0,"1-5,7,10-12",0,Open water - freshwater,NA
+137482934,514485342,26.07013135,-20.4161241,FALSE,1,tohozinbernadin@gmail.com,54:00.5,485.1,Sentinel 2,2018 - 2018,,,,130,1-Dec,0,"1-4,7,10-12",0,Open water - freshwater,NA
+137482935,514485343,26.06422378,-20.60888618,FALSE,1,tohozinbernadin@gmail.com,05:51.8,727,Sentinel 2,2018 - 2018,,,,131,"1,7-11","2-6,12","1-4,7,10-12","2-6,12",Open water - freshwater,NA
+137482936,514485344,25.93705544,-20.75543421,FALSE,1,tohozinbernadin@gmail.com,19:54.0,857.9,Sentinel 2,2018 - 2018,,,,132,"1-4,7,12","5,6,8-11","1-5,7-12","5,6,8-11",Open water - freshwater,NA
+137482937,514485345,25.50455872,-20.82700198,FALSE,1,tohozinbernadin@gmail.com,37:42.5,1084.3,Sentinel 2,2018 - 2018,,,,133,5,"1-4,6-12","1-5,7,9-12","1-4,6-12",Open water - freshwater,NA
+137482938,514485346,14.04386195,-20.93479302,FALSE,1,tohozinbernadin@gmail.com,27:33.2,359.3,Sentinel 2,2018 - 2018,,,,134,1-Aug,9-Dec,"1-4,9-12","9,10,11,12",Open water - freshwater,NA
+137482939,514485347,26.17024922,-20.99538018,FALSE,1,tohozinbernadin@gmail.com,38:42.1,684.9,Sentinel 2,2018 - 2018,,,,135,1-Jun,7-Dec,"1-7,9-12","7,8,9,10,11,12",Open water - freshwater,NA
+137482940,514485348,24.66443927,-21.01851522,FALSE,1,tohozinbernadin@gmail.com,44:57.7,391.6,Sentinel 2,2018 - 2018,,,,136,"5,6","1-4,7-12","1-7,9-12","1-4,7-12",Open water - freshwater,NA
+137482941,514485349,26.00576987,-21.03109009,FALSE,1,tohozinbernadin@gmail.com,54:15.5,573.9,Sentinel 2,2018 - 2018,,,,137,"3-7,12","1,2,3-11","1-5,7-10-12","1,2,3-11",Open water - freshwater,NA
+137482942,514485350,16.18302619,-21.32992357,FALSE,1,tohozinbernadin@gmail.com,06:06.1,726.7,Sentinel 2,2018 - 2018,,,,138,"3,4","1,2,5-12","1-4,9-12","1,2,5-12",Open water - freshwater,NA
+137482943,514485351,13.8147102,-21.44059439,FALSE,1,tohozinbernadin@gmail.com,14:00.8,490.8,Sentinel 2,2018 - 2018,,,,139,1-Dec,0,"1-4,6,8-12",0,Open water - marine,NA
+137482944,514485352,27.90863108,-21.50012329,FALSE,1,tohozinbernadin@gmail.com,22:22.9,518.3,Sentinel 2,2018 - 2018,,,,140,1-Dec,0,"1-5,8-12",0,Open water - freshwater,NA
+137482945,514485353,30.64788064,-21.60309387,FALSE,1,tohozinbernadin@gmail.com,40:55.4,1128.8,Sentinel 2,2018 - 2018,,,,141,"2,3,6","1,4-12","1-5,7,9-12","1,4-12",Open water - freshwater,NA
+137482946,514485354,30.40162801,-22.43354048,FALSE,1,deborahalaigba@gmail.com,35:58.6,500.7,Sentinel 2,2018 - 2018,,,,142,0,1-Dec,"1-4, 7, 10-11",0,Barren (Bare soil / Rocky Land),NA
+137482947,514485355,29.29908784,-22.43582574,FALSE,1,deborahalaigba@gmail.com,57:19.0,340.7,Sentinel 2,2018 - 2018,,,,143,5-Dec,1-Apr,"1-5, 10",0,Open water - Constructed (e.g. aquaculture),NA
+137482948,514485356,29.30437356,-22.43938067,FALSE,1,deborahalaigba@gmail.com,13:56.6,1015.4,Sentinel 2,2018 - 2018,,,,144,"1, 3-4, 7-10","2, 6, 11, 12","2-5, 10",0,Open water - Constructed (e.g. aquaculture),There was no sentinel 2 image for the area in month 2
+137482949,514485357,27.22552878,-22.48788898,FALSE,1,deborahalaigba@gmail.com,26:49.3,790.7,Sentinel 2,2018 - 2018,,,,145,"1, 3-12",2,"2-5, 8",0,Open water - freshwater,There was no Sentinel 2 image for month 2
+137482950,514485358,23.85105938,-22.72304746,FALSE,1,deborahalaigba@gmail.com,31:51.9,320.3,Sentinel 2,2018 - 2018,,,,146,0,1-Dec,"1-2, 12",0,Shrubs,NA
+137482951,514485359,30.17371996,-22.94585871,FALSE,1,deborahalaigba@gmail.com,40:38.9,303.6,Sentinel 2,2018 - 2018,,,,147,"1, 3-9, 11-12","2, 10","1-3, 10-11",0,Open water - freshwater,There was no Sentinel 2 image for the area in Months 2 and 10
+137482952,514485360,14.45645947,-22.97542397,FALSE,1,deborahalaigba@gmail.com,45:03.3,282.4,Sentinel 2,2018 - 2018,,,,148,1-Dec,0,"1-8, 10-12",0,Open water - marine,NA
+137482953,514485361,15.50614239,-23.31997039,FALSE,1,deborahalaigba@gmail.com,54:59.4,180.1,Sentinel 2,2018 - 2018,,,,149,0,1-Dec,"1-4, 12",0,Barren (Bare soil / Rocky Land),NA
+137482954,514485362,14.479157,-23.36367499,FALSE,1,deborahalaigba@gmail.com,58:42.0,238.4,Sentinel 2,2018 - 2018,,,,150,1-Dec,0,"1-4, 6, 8-12",0,Open water - freshwater,NA
+137482955,514485363,15.60035267,-23.41941239,FALSE,1,deborahalaigba@gmail.com,06:20.0,476,Sentinel 2,2018 - 2018,,,,151,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),NA
+137482956,514485364,15.6379746,-23.43910494,FALSE,1,deborahalaigba@gmail.com,28:14.9,1332.9,Sentinel 2,2018 - 2018,,,,152,1-Dec,0,0,0,Open water - freshwater,NA
+137482957,514485365,32.94779311,-23.74483664,FALSE,1,deborahalaigba@gmail.com,40:06.1,729.2,Sentinel 2,2018 - 2018,,,,153,0,1-Dec,"1-3, 11",0,Barren (Bare soil / Rocky Land),There was no Sentinel 2 image for month 2
+137482958,514485366,29.98156829,-23.92594261,FALSE,1,deborahalaigba@gmail.com,52:58.2,789.8,Sentinel 2,2018 - 2018,,,,154,"1, 3-12",2,"1-3, 5, 7,11-12",0,Open water - freshwater,There was no Sentinel 2 image for month 2
+137482959,514485367,16.80114516,-24.41586952,FALSE,1,deborahalaigba@gmail.com,15:57.3,1396.6,Sentinel 2,2018 - 2018,,,,155,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),NA
+137482960,514485368,17.95218963,-24.56875524,FALSE,1,deborahalaigba@gmail.com,19:48.3,245.9,Sentinel 2,2018 - 2018,,,,156,0,1-Dec,0,0,Urban (Settlements/ roads)  ,NA
+137482961,514485369,34.26114046,-24.63713578,FALSE,1,deborahalaigba@gmail.com,28:01.4,511.2,Sentinel 2,2018 - 2018,,,,157,4,"1-3, 5-12","1-8, 10-12",0,Open water - freshwater,The water here appears to be shrinking
+137482962,514485370,34.30466996,-24.7293139,FALSE,1,deborahalaigba@gmail.com,33:11.8,327.8,Sentinel 2,2018 - 2018,,,,158,1-Dec,0,"1-4, 7-8, 10-12",0,Open water - freshwater,NA
+137482963,514485371,26.43609012,-24.87895515,FALSE,1,deborahalaigba@gmail.com,39:49.4,415.6,Sentinel 2,2018 - 2018,,,,159,1-Dec,0,"1-4, 12",0,Open water - freshwater,NA
+137482964,514485372,34.08546781,-24.96846267,FALSE,1,deborahalaigba@gmail.com,45:56.5,385.2,Sentinel 2,2018 - 2018,,,,160,1-Dec,0,"1-4, 7-8, 10-12",0,Open water - freshwater,NA
+137482965,514485373,32.71180101,-25.04327355,FALSE,1,deborahalaigba@gmail.com,49:46.7,248.3,Sentinel 2,2018 - 2018,,,,161,1-Dec,0,"1-3, 7, 10, 12",0,Open water - freshwater,NA
+137482966,514485374,29.35163417,-25.06735713,FALSE,1,deborahalaigba@gmail.com,56:42.3,433.8,Sentinel 2,2018 - 2018,,,,162,1-Dec,0,2-Mar,0,Open water - Constructed (e.g. aquaculture),NA
+137482967,514485375,33.55751711,-25.09015016,FALSE,1,deborahalaigba@gmail.com,04:01.5,454.8,Sentinel 2,2018 - 2018,,,,163,1-Dec,0,"1-4, 6, 8, 10, 12",0,Open water - freshwater,NA
+137482968,514485376,28.91198617,-25.09688526,FALSE,1,deborahalaigba@gmail.com,58:50.9,563,Sentinel 2,2018 - 2018,,,,164,1-Dec,0,1-Mar,0,Open water - freshwater,NA
+137482969,514485377,16.16561439,-25.1031026,FALSE,1,deborahalaigba@gmail.com,05:43.8,318.1,Sentinel 2,2018 - 2018,,,,165,0,1-Dec,0,0,Barren (Bare soil / Rocky Land),NA
+137482970,514485378,31.71901738,-25.20417772,FALSE,1,deborahalaigba@gmail.com,17:21.9,244.9,Sentinel 2,2018 - 2018,,,,166,"1, 3-12",2,"2, 7, 12",0,Open water - freshwater,There was no Sentinel 2 image for months 2 for the area
+137482971,514485379,33.32960906,-25.22725507,FALSE,1,deborahalaigba@gmail.com,27:31.9,124.9,Sentinel 2,2018 - 2018,,,,167,1-Dec,0,"1-4, 6-12",0,Open water - freshwater,NA
+137482972,514485380,29.28851638,-25.44189862,FALSE,1,deborahalaigba@gmail.com,33:21.0,365,Sentinel 2,2018 - 2018,,,,168,1-Dec,0,"1-3, 5, 7, 12",0,Open water - freshwater,NA
+137482973,514485381,32.79419615,-25.52869256,FALSE,1,deborahalaigba@gmail.com,38:16.3,311.3,Sentinel 2,2018 - 2018,,,,169,1-Dec,0,"1-3, 11",0,Open water - freshwater,NA
+137482974,514485382,27.59646235,-25.6878879,FALSE,1,deborahalaigba@gmail.com,54:57.8,164.8,Sentinel 2,2018 - 2018,,,,170,0,1-Dec,"2, 12",0,Urban (Settlements/ roads)  ,NA
+137482975,514485383,29.87554285,-25.84885547,FALSE,1,deborahalaigba@gmail.com,00:52.9,371.3,Sentinel 2,2018 - 2018,,,,171,0,1-Dec,1-Feb,0,Urban (Settlements/ roads)  ,NA
+137482976,514485384,28.71454877,-25.89525801,FALSE,1,deborahalaigba@gmail.com,13:08.4,373.7,Sentinel 2,2018 - 2018,,,,172,1-Dec,0,2,0,Open water - freshwater,NA
+137482977,514485385,29.61250027,-25.97480952,FALSE,1,tohozinbernadin@gmail.com,33:49.6,1471.8,Sentinel 2,2018 - August,,,,173,1-Dec,0,"1-4,7- 12",0,Open water - freshwater,NA
+137482978,514485386,32.44005253,-25.97611408,FALSE,1,tohozinbernadin@gmail.com,46:40.9,810.3,Sentinel 2,2018 - September,,,,174,"1, 3-12",2,"1-5, 7-12",2,Open water - freshwater,NA
+137482979,514485387,16.22251367,-25.97924509,FALSE,1,tohozinbernadin@gmail.com,08:05.8,1324,Sentinel 2,2018 - July,,,,175,1-Dec,0,"1-5, 7-12",0,Open water - freshwater,NA
+137482980,514485388,32.96644862,-26.06094099,FALSE,1,tohozinbernadin@gmail.com,22:38.8,160,Sentinel 2,2018 - January,,,,176,1-Dec,0,"1-5, 7-12",0,Open water - marine,NA
+137482981,514485389,31.24889873,-26.06381311,FALSE,1,tohozinbernadin@gmail.com,40:58.7,1139.2,Sentinel 2,2018 - September,,,,177,1-Dec,0,"1-5, 7-12",0,Open water - freshwater,NA
+137482982,514485390,31.65434497,-26.16255136,FALSE,1,tohozinbernadin@gmail.com,59:45.6,1166.3,Sentinel 2,2018 - September,,,,178,1-Dec,0,"1-5, 7-12",0,Open water - freshwater,NA
+137482983,514485391,27.74042064,-26.21273544,FALSE,1,tohozinbernadin@gmail.com,07:12.1,485.9,Sentinel 2,2018 - August,,,,179,1-Dec,0,"1-5, 7-12",0,Open water - freshwater,NA
+137482984,514485392,28.70428825,-26.22763792,FALSE,1,tohozinbernadin@gmail.com,23:26.8,1014,Sentinel 2,2018 - December,,,,180,"1, 3-8","2, 9-12","1-4, 7-12",0,Open water - freshwater,NA
+137482985,514485393,15.66315953,-26.4804812,FALSE,1,deborahalaigba@gmail.com,42:05.8,1146.3,12-Dec2018 Sentinel2,,COPERNICUS/S2,5/12/2018,1/12/2018,181,0,1-Dec,8,0,Barren (Bare soil / Rocky Land),NA
+137482986,514485394,17.96058461,-26.51035564,FALSE,1,deborahalaigba@gmail.com,51:42.5,612.4,Sentinel 2,2018 - December,,,,182,0,1-Dec,0,0,Wetlands - freshwater,NA
+137482987,514485395,18.35950143,-26.53001402,FALSE,1,deborahalaigba@gmail.com,08:46.8,1061.2,Sentinel 2,2018 - December,,,,183,1-Dec,0,0,0,Open water - freshwater,NA
+137482988,514485396,29.10475969,-26.56566964,FALSE,1,deborahalaigba@gmail.com,23:49.2,937.3,Sentinel 2,2018 - November,,,,184,1-Dec,0,2,0,Open water - Constructed (e.g. aquaculture),NA
+137482989,514485397,27.98605142,-26.56619407,FALSE,1,deborahalaigba@gmail.com,33:11.1,592.1,Sentinel 2,2018 - January,,,,185,1-Feb,0,2,0,Open water - Constructed (e.g. aquaculture),NA

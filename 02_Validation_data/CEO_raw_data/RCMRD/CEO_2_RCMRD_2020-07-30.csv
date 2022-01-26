@@ -1,0 +1,201 @@
+PLOT_ID,SAMPLE_ID,LON,LAT,FLAGGED,ANALYSES,USER_ID,COLLECTION_TIME,ANALYSIS_DURATION,IMAGERY_TITLE,SENTINEL2MOSAICYEARMONTH,PL_PLOTID,"ENTER MONTHS[1-12] IN 2018,WATER WAS OBSERVED?","ENTER MONTHS[1-12] IN 2018,WATER WAS NOT OBSERVED?","ENTER MONTHS[1-12] IN 2018,IMAGE WAS BAD?","ENTER MONTHS[1-12] IN 2018,THAT YOU ARE UNSURE IF YOU OBSERVE WATER OR NOT? ",WHAT IS THE FEATURE?,COMMENT
+137387237,512622699,36.24826235,-0.439986595,FALSE,1,fisundwa@rcmrd.org,46:18.6,480.9,Sentinel 2,2018 - 2018,1,"1-3,5-12",0,4,0,Wetlands - freshwater,Possible high algae bloom between 1-3
+137387238,512622700,34.14951837,-0.539462378,FALSE,1,fisundwa@rcmrd.org,49:44.1,210.2,Sentinel 2,2018 - 2018,2,1-Dec,0,0,0,Open water - freshwater,n/a
+137387239,512622701,34.1597789,-0.542989915,FALSE,1,fisundwa@rcmrd.org,53:07.1,207.8,Sentinel 2,2018 - 2018,3,1-Dec,0,0,0,Open water - freshwater,n/a
+137387240,512622702,30.92584762,-0.669982695,FALSE,1,fisundwa@rcmrd.org,00:18.8,436.6,Sentinel 2,2018 - 2018,4,1-Nov,0,12,0,Open water - freshwater,n/a
+137387241,512622703,37.89274486,-0.683152489,FALSE,1,fisundwa@rcmrd.org,05:45.1,331.2,Sentinel 2,2018 - 2018,5,1-Dec,0,0,0,Open water - freshwater,n/a
+137387242,512622704,31.31201651,-0.728306341,FALSE,1,fisundwa@rcmrd.org,08:47.7,1318.2,Sentinel 2,2018 - 2018,6,"1,2,5-12",0,"3,4",0,Open water - freshwater,n/a
+137387243,512622705,34.20299748,-0.770403297,FALSE,1,fisundwa@rcmrd.org,12:53.2,250.6,Sentinel 2,2018 - 2018,7,0,"1-10,12",11,0,Cultivated (Cropland/ Plantation)  ,n/a
+137387244,512622706,30.86863741,-0.804034116,FALSE,1,fisundwa@rcmrd.org,38:02.0,1513.9,Sentinel 2,2018 - 2018,8,1-Nov,0,12,0,Open water - freshwater,n/a
+137387245,512622707,36.27624561,-0.806856295,FALSE,1,fisundwa@rcmrd.org,40:01.0,123.7,Sentinel 2,2018 - 2018,9,"1-3,5-12",0,4,0,Open water - freshwater,n/a
+137387246,512622708,36.84150732,-0.820026488,FALSE,1,fisundwa@rcmrd.org,43:13.9,198,Sentinel 2,2018 - 2018,10,"6-10,11",1-Apr,11,"4,5",Open water - freshwater,n/a
+137387247,512622709,31.7155972,-0.850129945,FALSE,1,fisundwa@rcmrd.org,46:50.9,222.1,Sentinel 2,2018 - 2018,11,"1,2,5-10,12",0,"3,4,11",0,Open water - freshwater,n/a
+137387248,512622710,34.18247643,-0.87153176,FALSE,1,fisundwa@rcmrd.org,48:19.6,93.9,Sentinel 2,2018 - 2018,12,1-Dec,0,0,0,Open water - freshwater,n/a
+137387249,512622711,30.09443407,-0.89246332,FALSE,1,fisundwa@rcmrd.org,53:05.6,291,Sentinel 2,2018 - 2018,13,"1,3-9,11",0,"2,10,12",0,Open water - freshwater,n/a
+137387250,512622712,37.52087852,-0.921156209,FALSE,1,fisundwa@rcmrd.org,56:29.4,208.9,Sentinel 2,2019 - 2019,14,1-Dec,0,0,0,Open water - freshwater,n/a
+137387251,512622713,31.83747982,-1.001591594,FALSE,1,fisundwa@rcmrd.org,35:27.1,251.6,Sentinel 2,2018 - 2018,15,"2,5,6-12",0,"1,3,4",0,Open water - freshwater,N/a
+137387252,512622714,34.07707284,-1.063683373,FALSE,1,fisundwa@rcmrd.org,58:37.7,133.4,Sentinel 2,2019 - 2019,16,1-Dec,0,0,0,Open water - freshwater,n/a
+137387253,512622715,34.03478703,-1.083440099,FALSE,1,fisundwa@rcmrd.org,01:31.5,178.9,Sentinel 2,2018 - 2018,17,1-Dec,0,0,0,Open water - freshwater,n/a
+137387254,512622716,37.04516322,-1.131656451,FALSE,1,fisundwa@rcmrd.org,07:19.3,352.7,Sentinel 2,2018 - 2018,18,0,"1-3,5,6,8-12","4,7",0,Urban (Settlements/ roads)  ,n/a
+137387255,512622717,36.96556641,-1.176110266,FALSE,1,fisundwa@rcmrd.org,17:09.5,595.3,Sentinel 2,2018 - 2018,19,"1-3,5,6,8-12",0,"4,7",0,Open water - freshwater,n/a
+137387256,512622718,29.84911422,-1.221270403,FALSE,1,fisundwa@rcmrd.org,26:35.5,571.2,Sentinel 2,2018 - 2018,20,"1-3,5-11",0,"4,12",0,Open water - freshwater,n/a
+137387257,512622719,30.62860328,-1.322177793,FALSE,1,fisundwa@rcmrd.org,32:39.4,369,Sentinel 2,2018 - 2018,21,"1-3,5,7-10",6,"4,11,12",0,Open water - freshwater,n/a
+137387258,512622720,37.75562692,-1.388745907,FALSE,1,fisundwa@rcmrd.org,39:32.3,418,Sentinel 2,2018 - 2018,22,1-Dec,0,0,0,Open water - Constructed (e.g. aquaculture),n/a
+137387259,512622721,30.82106588,-1.430616533,FALSE,1,fisundwa@rcmrd.org,46:07.3,400,Sentinel 2,2018 - 2018,23,"1-3,5-11",0,"4,12",0,Open water - freshwater,n/a
+137387260,512622722,31.57599186,-1.442378078,FALSE,1,fisundwa@rcmrd.org,51:15.9,313.7,Sentinel 2,2018 - 2018,24,"2,5-12",0,"1,3,4",0,Open water - freshwater,n/a
+137387261,512622723,29.77013926,-1.477898304,FALSE,1,fisundwa@rcmrd.org,53:39.7,148.9,Sentinel 2,2018 - 2018,25,"1-3,5-11",0,"4,12",0,Open water - freshwater,n/a
+137387262,512622724,33.78635793,-1.489189617,FALSE,1,fisundwa@rcmrd.org,55:51.3,136.8,Sentinel 2,2018 - 2018,26,1-Dec,0,0,0,Open water - freshwater,n/a
+137387263,512622725,37.23171824,-1.539060262,FALSE,1,fisundwa@rcmrd.org,59:05.5,199.3,Sentinel 2,2018 - 2018,27,"1-2,4-12",0,3,0,Open water - Constructed (e.g. aquaculture),N/a
+137387264,512622726,37.40397071,-1.550587127,FALSE,1,fisundwa@rcmrd.org,02:01.7,181.3,Sentinel 2,2018 - 2018,28,"1,2,4-12",0,3,0,Open water - Constructed (e.g. aquaculture),N/a
+137387265,512622727,33.66323162,-1.559996859,FALSE,1,fisundwa@rcmrd.org,03:49.3,112.8,Sentinel 2,2018 - 2018,29,1-Dec,0,0,0,Open water - freshwater,N/a
+137387266,512622728,31.52686571,-1.573641043,FALSE,1,fisundwa@rcmrd.org,07:48.7,244.5,Bing Basemaps,,30,"2,5-12",0,"1,3,4",0,Wetlands - freshwater,n/a
+137387267,512622729,39.04907506,-1.587755807,FALSE,1,fisundwa@rcmrd.org,10:30.9,167.2,Sentinel 2,2018 - 2018,31,0,"1-5,7-12",6,0,Shrubs,n/a
+137387268,512622730,30.88325089,-1.617867618,FALSE,1,fisundwa@rcmrd.org,13:51.6,205.7,Sentinel 2,2018 - 2018,32,"1,3,5-12",0,"2,4",0,Open water - freshwater,n/a
+137387269,512622731,33.67846694,-1.63080642,FALSE,1,fisundwa@rcmrd.org,15:47.1,120.5,Sentinel 2,2018 - 2018,33,1-Dec,0,0,0,Open water - freshwater,n/a
+137387270,512622732,31.21842807,-1.639040246,FALSE,1,fisundwa@rcmrd.org,20:19.7,277.8,Sentinel 2,2018 - 2018,34,"2,5-10,12",0,"1,3,4,11",0,Open water - freshwater,N/a
+137387271,512622733,33.58550036,-1.679504098,FALSE,1,fisundwa@rcmrd.org,22:28.4,133.8,Sentinel 2,2018 - 2018,35,1-Dec,0,0,0,Open water - freshwater,n/A
+137387272,512622734,36.27095988,-1.7234977,FALSE,1,fisundwa@rcmrd.org,26:58.5,275.2,Sentinel 2,2018 - 2018,36,"1,2,5-12",0,"3,4",0,Open water - freshwater,N/a
+137387273,512622735,36.27158173,-1.740907205,FALSE,1,fisundwa@rcmrd.org,31:31.2,277.9,Sentinel 2,2018 - 2018,37,"1-2,5-12",0,"3,4",0,Open water - freshwater,n/a
+137387274,512622736,29.27576846,-1.786549086,FALSE,1,fisundwa@rcmrd.org,39:08.7,11262.5,Sentinel 2,2018 - 2018,38,"1,5-9,11",0,"2,4,10,12",3,Open water - freshwater,n/a
+137387275,512622737,33.97944238,-1.818781387,FALSE,1,fisundwa@rcmrd.org,48:52.6,589,Sentinel 2,2018 - 2018,39,"1-3,6-12","4,5",0,0,Open water - freshwater,n/a
+137387276,512622738,30.29000592,-1.823016329,FALSE,1,fisundwa@rcmrd.org,54:00.3,312.8,Sentinel 2,2018 - 2018,40,"1-3,5-12",0,3,0,Open water - freshwater,n/a
+137387277,512622739,30.80427593,-1.835721214,FALSE,1,fisundwa@rcmrd.org,03:26.5,571.1,Sentinel 2,2018 - 2018,41,1-Dec,0,0,0,Open water - freshwater,n/a
+137387278,512622740,29.27545753,-1.887953338,FALSE,1,fisundwa@rcmrd.org,06:48.2,206.8,Sentinel 2,2018 - 2018,42,5-Dec,0,1-Apr,0,Open water - freshwater,n/a
+137387279,512622741,31.18360447,-1.933834166,FALSE,1,fisundwa@rcmrd.org,16:02.1,559.2,Sentinel 2,2018 - 2018,43,"2,4-12",0,"1,3",0,Open water - freshwater,n/a
+137387280,512622742,41.19290317,-1.94018699,FALSE,1,fisundwa@rcmrd.org,38:48.5,211.1,Sentinel 2,2018 - 2018,44,1-Dec,0,0,0,Open water - freshwater,n/a
+137387281,512622743,41.12045764,-1.987010381,FALSE,1,fisundwa@rcmrd.org,44:35.4,356.5,Sentinel 2,2018 - 2018,45,"1-5,8,10","6,11","7,9,12",0,Open water - freshwater,N/a
+137387282,512622744,33.30100395,-2.01736392,FALSE,1,fisundwa@rcmrd.org,48:04.4,218.6,Sentinel 2,2018 - 2018,46,1-Dec,0,0,0,Open water - freshwater,n/a
+137387283,512622745,30.77971285,-2.02136404,FALSE,1,fisundwa@rcmrd.org,19:17.6,1882.8,Sentinel 2,2018 - 2018,47,1-Dec,0,0,0,Open water - freshwater,N/a
+137387284,512622746,33.30349135,-2.028893703,FALSE,1,fisundwa@rcmrd.org,24:53.4,345.3,Sentinel 2,2018 - 2018,48,1-Dec,0,0,0,Open water - freshwater,n/a
+137387285,512622747,31.63910964,-2.03571749,FALSE,1,fisundwa@rcmrd.org,29:06.6,262.9,Sentinel 2,2018 - 2018,49,5-Dec,0,"1,3,4",0,Open water - freshwater,N/a
+137387286,512622748,29.29380211,-2.08301417,FALSE,1,fisundwa@rcmrd.org,33:12.0,255,Sentinel 2,2018 - 2018,50,"1,3,6-12",0,"2,4,5",0,Open water - freshwater,N/a
+137387287,512622749,30.75608255,-2.08324948,FALSE,1,fisundwa@rcmrd.org,35:33.0,150.6,Sentinel 2,2018 - 2018,51,1-Dec,0,0,0,Open water - freshwater,N/a
+137387288,512622750,31.61796674,-2.084426032,FALSE,1,fisundwa@rcmrd.org,40:00.9,277.6,Sentinel 2,2018 - 2018,52,"2,5-12",0,"1,3,4",0,Open water - freshwater,N/A
+137387289,512622751,36.27966578,-2.090544116,FALSE,1,fisundwa@rcmrd.org,43:31.1,219.8,Sentinel 2,2019 - 2019,53,"1-4,6-12",0,5,0,Shrubs,N/A
+137387290,512622752,30.32389675,-2.100427224,FALSE,1,fisundwa@rcmrd.org,46:53.1,211.7,Sentinel 2,2019 - 2019,54,"1-10,12",0,11,0,Open water - freshwater,N/A
+137387291,512622753,40.92177654,-2.135489219,FALSE,1,fisundwa@rcmrd.org,50:15.6,212.1,Sentinel 2,2019 - 2019,55,1-Dec,0,0,0,Open water - marine,N/A
+137387292,512622754,29.27732308,-2.17431717,FALSE,1,fisundwa@rcmrd.org,54:21.9,256,Sentinel 2,2018 - 2018,56,"1,3,6-12",0,"2,4,5",0,Open water - freshwater,n/a
+137387293,512622755,30.36214053,-2.211028126,FALSE,1,fisundwa@rcmrd.org,58:42.3,270,Sentinel 2,2018 - 2018,57,1-Dec,0,0,0,Open water - freshwater,N/A
+137387294,512622756,30.67804036,-2.213852082,FALSE,1,fisundwa@rcmrd.org,03:28.1,295.3,Sentinel 2,2018 - 2018,58,0,1-Dec,0,0,Cultivated (Cropland/ Plantation)  ,N/A
+137387295,512622757,31.30610893,-2.214793402,FALSE,1,fisundwa@rcmrd.org,37:12.8,2034.3,Sentinel 2,2018 - 2018,59,"1,5-12",0,"1,3,4",0,Open water - freshwater,n/a
+137387296,512622758,33.82087061,-2.245386616,FALSE,1,fisundwa@rcmrd.org,38:49.6,106.4,Sentinel 2,2018 - 2018,60,1-Dec,0,0,0,Open water - freshwater,n/a
+137387297,512622759,30.29777905,-2.33952353,FALSE,1,fisundwa@rcmrd.org,45:07.1,167.6,Sentinel 2,2018 - 2018,61,"1-3,5,7-12",6,4,0,Open water - freshwater,n/a
+137387298,512622760,31.71497535,-2.345407289,FALSE,1,fisundwa@rcmrd.org,49:00.2,242.8,Sentinel 2,2018 - 2018,62,"2,5-12",0,"1,3,4",0,Open water - freshwater,n/a
+137387299,512622761,35.96998445,-2.368001147,FALSE,1,fisundwa@rcmrd.org,53:40.2,289.6,Sentinel 2,2018 - 2018,63,"1,3,4-10,12",2,"4,11",0,Open water - freshwater,n/a
+137387300,512622762,32.13969895,-2.392478231,FALSE,1,fisundwa@rcmrd.org,56:21.0,168.6,Sentinel 2,2018 - 2018,64,"2,4-12",0,"1,3",0,Open water - freshwater,n/a
+137387301,512622763,33.52176073,-2.393419666,FALSE,1,fisundwa@rcmrd.org,59:37.8,206.3,Sentinel 2,2018 - 2018,65,1-Dec,0,0,0,Open water - freshwater,n/a
+137387302,512622764,40.68422982,-2.416720378,FALSE,1,fisundwa@rcmrd.org,06:20.5,412.3,Sentinel 2,2018 - 2018,66,"2,4-12","1,3",0,0,Open water - freshwater,n/a
+137387303,512622765,28.88400292,-2.426605646,FALSE,1,fisundwa@rcmrd.org,09:47.3,216.5,Sentinel 2,2018 - 2018,67,"1,3-12",0,2,0,Open water - freshwater,n/a
+137387304,512622766,30.14542578,-2.436020252,FALSE,1,fisundwa@rcmrd.org,16:01.1,383.4,Sentinel 2,2018 - 2018,68,"1-3,5-12",0,4,0,Open water - freshwater,n/a
+137387305,512622767,32.44005253,-2.466618166,FALSE,1,fisundwa@rcmrd.org,18:37.7,166.3,Sentinel 2,2018 - 2018,69,"2,4-12",0,"1,3",0,Open water - freshwater,n/a
+137387306,512622768,32.13223675,-2.467559651,FALSE,1,fisundwa@rcmrd.org,21:09.6,161.5,Sentinel 2,2018 - 2018,70,"2,4-11",12,"1,3",0,Open water - freshwater,n/a
+137387307,512622769,40.67770039,-2.500041286,FALSE,1,fisundwa@rcmrd.org,25:51.1,291,Sentinel 2,2018 - 2018,71,"2-6,8,10-12","1,7,9",0,0,Open water - marine,n/a
+137387308,512622770,32.16364018,-2.520990001,FALSE,1,fisundwa@rcmrd.org,28:51.5,190,Sentinel 2,2018 - 2018,72,"2,4-12",0,"1,3",0,Open water - freshwater,n/a
+137387309,512622771,36.02501818,-2.552531383,FALSE,1,fisundwa@rcmrd.org,32:22.7,220.8,Sentinel 2,2018 - 2018,73,"1-3,5-10,12",0,"4,11",0,Open water - freshwater,n/a
+137387310,512622772,31.7255468,-2.555120634,FALSE,1,fisundwa@rcmrd.org,37:45.6,332.5,Sentinel 2,2018 - 2018,74,"2,5-12",0,"1,3,4",0,Open water - freshwater,n/a
+137387311,512622773,30.07142562,-2.564536136,FALSE,1,fisundwa@rcmrd.org,42:01.1,265.2,Sentinel 2,2018 - 2018,75,"1-3,5-12",0,4,0,Open water - freshwater,n/a
+137387312,512622774,32.88467533,-2.570891638,FALSE,1,fisundwa@rcmrd.org,45:55.8,244.3,Sentinel 2,2018 - 2018,76,"2,4-12",0,"1,3",0,Open water - freshwater,n/a
+137387313,512622775,35.95848022,-2.648337105,FALSE,1,fisundwa@rcmrd.org,22:19.0,963.5,Sentinel 2,2018 - 2018,77,"5-10,12","1,2,3","4,11",0,Open water - freshwater,n/a
+137387314,512622776,31.78555534,-2.717783092,FALSE,1,fisundwa@rcmrd.org,48:04.1,136.1,Sentinel 2,2018 - 2018,78,"2,4-12",0,"1,3",0,Open water - freshwater,n/a
+137387315,512622777,30.9665788,-2.756627453,FALSE,1,fisundwa@rcmrd.org,53:52.0,357.5,Sentinel 2,2018 - 2018,79,0,"2,4-10","1,3,11,12",0,Cultivated (Cropland/ Plantation)  ,n/a
+137387316,512622778,32.94686034,-2.790999855,FALSE,1,fisundwa@rcmrd.org,02:13.6,511.4,Sentinel 2,2018 - 2018,80,"2,4-12",0,"1,3",0,Open water - freshwater,N/a
+137387317,512622779,31.78959736,-2.836674289,FALSE,1,fisundwa@rcmrd.org,05:49.2,225.2,Sentinel 2,2018 - 2018,81,"2,4-12",0,"1,3",0,Open water - freshwater,N/a
+137387318,512622780,32.1714133,-2.842795737,FALSE,1,fisundwa@rcmrd.org,12:01.3,381.8,Sentinel 2,2018 - 2018,82,"5,6","2,4,7,8,9,10,11,12","1,3",0,Open water - Constructed (e.g. aquaculture),n/a
+137387319,512622781,35.83877408,-2.899538371,FALSE,1,fisundwa@rcmrd.org,17:06.0,314.3,Sentinel 2,2018 - 2018,83,"1-3,5-6,8-12",0,"4,7",0,Open water - freshwater,N/A
+137387320,512622782,40.23090112,-2.978888538,FALSE,1,fisundwa@rcmrd.org,21:18.4,262,Sentinel 2,2018 - 2018,84,1-Dec,0,0,0,Open water - marine,N/A
+137387321,512622783,37.3591975,-3.075199347,FALSE,1,fisundwa@rcmrd.org,27:48.8,400.1,Sentinel 2,2018 - 2018,85,0,"1,2,7,8,9,10,11,12","3,4,5,6",0,Barren (Bare soil / Rocky Land),Periodic snow coverage and bare land
+137387322,512622784,40.16218669,-3.109345785,FALSE,1,fisundwa@rcmrd.org,36:47.4,548.3,Sentinel 2,2018 - 2018,86,1-Dec,0,0,0,Open water - marine,n/a
+137387323,512622785,35.5185213,-3.178112923,FALSE,1,fisundwa@rcmrd.org,40:56.4,258.7,Sentinel 2,2018 - 2018,87,"3-6,8-12","1,2",7,0,Open water - freshwater,n/a
+137387324,512622786,32.78766672,-3.179997016,FALSE,1,fisundwa@rcmrd.org,47:29.2,402.5,Sentinel 2,2018 - 2018,88,"2,4-11",0,"1,3,12",0,Open water - freshwater,n/a
+137387325,512622787,35.52567257,-3.190124077,FALSE,1,fisundwa@rcmrd.org,51:39.4,259.8,Sentinel 2,2018 - 2018,89,"3-4,6,8-12","1,2","5,7",0,Open water - freshwater,n/a
+137387326,512622788,29.34199549,-3.44710212,FALSE,1,fisundwa@rcmrd.org,25:52.3,223.2,Sentinel 2,2018 - 2018,90,"1,4-8,10,11",0,"2,3,9,12",0,Open water - freshwater,N/A
+137387327,512622789,34.30031701,-3.481496499,FALSE,1,fisundwa@rcmrd.org,43:58.8,1096.4,Sentinel 2,2018 - 2018,91,"1-3,5-8,12","9,10,11",4,0,Open water - freshwater,N/A
+137387328,512622790,34.30124979,-3.484794654,FALSE,1,fisundwa@rcmrd.org,46:50.6,181.8,Sentinel 2,2018 - 2018,92,"1-3,5-12",0,4,0,Open water - freshwater,N/A
+137387329,512622791,39.92370718,-3.510237945,FALSE,1,fisundwa@rcmrd.org,54:01.5,440.9,Sentinel 2,2018 - 2018,93,1-Dec,0,0,0,Open water - marine,n/a
+137387330,512622792,37.40459256,-3.604007043,FALSE,1,fisundwa@rcmrd.org,00:07.7,376.1,Sentinel 2,2018 - 2018,94,"1-3,5-10,12",11,4,0,Open water - freshwater,n/a
+137387331,512622793,37.75811432,-3.619086363,FALSE,1,fisundwa@rcmrd.org,03:03.4,185.7,Sentinel 2,2018 - 2018,95,"1-3,5-12",0,4,0,Open water - freshwater,n/a
+137387332,512622794,32.65863283,-3.682940577,FALSE,1,fisundwa@rcmrd.org,05:46.5,825.8,Sentinel 2,2018 - 2018,96,0,"2,5,6-12","1,3,4",n/a,Cultivated (Cropland/ Plantation)  ,n/a
+137387333,512622795,36.8785074,-3.721585141,FALSE,1,fisundwa@rcmrd.org,05:24.9,150.9,Sentinel 2,2018 - 2018,97,"1-3,5-12",0,4,0,Open water - freshwater,n/a
+137387334,512622796,37.45651704,-3.79840791,FALSE,1,fisundwa@rcmrd.org,14:26.0,551.1,Sentinel 2,2018 - 2018,98,"1-3,5-12",0,4,0,Open water - freshwater,n/a
+137387335,512622797,32.65676728,-3.845306054,FALSE,1,fisundwa@rcmrd.org,17:06.9,171,Sentinel 2,2018 - 2018,99,"2,5-12",0,"1,3,4",0,Open water - Constructed (e.g. aquaculture),n/a
+137387336,512622798,32.68070851,-3.860860765,FALSE,1,fisundwa@rcmrd.org,21:48.4,291.5,Sentinel 2,2018 - 2018,100,2,"5,6,7,8,9,10,12","1,3,4",11,Open water - Constructed (e.g. aquaculture),n/a
+137387337,512622799,35.89722799,-3.862746204,FALSE,1,fisundwa@rcmrd.org,30:57.2,558.9,Sentinel 2,2018 - 2018,101,"1,2,6-10",0,"4,5","3,11,12",Open water - freshwater,n/a
+137387338,512622800,35.88758931,-3.885371783,FALSE,1,fisundwa@rcmrd.org,37:09.3,382.1,Sentinel 2,2018 - 2018,102,"1,2,3,5,6,7,8,9,10,11,12",0,4,0,Open water - freshwater,n/a
+137387339,512622801,39.65662258,-3.974701487,FALSE,1,fisundwa@rcmrd.org,40:46.2,226.9,Sentinel 2,2018 - 2018,103,"2-6,8-11",0,"1,7,12",0,Open water - freshwater,n/a
+137387340,512622802,34.34135912,-4.062861932,FALSE,1,fisundwa@rcmrd.org,49:55.0,558.6,Sentinel 2,2018 - 2018,104,1-Dec,0,0,0,Open water - freshwater,n/a
+137387341,512622803,29.48626471,-4.094451101,FALSE,1,fisundwa@rcmrd.org,54:34.3,289.2,Sentinel 2,2018 - 2018,105,"1-3,5-9,11",0,"4,10,12",0,Open water - freshwater,n/a
+137387342,512622804,35.19391556,-4.102230709,FALSE,1,fisundwa@rcmrd.org,09:19.9,895.6,Sentinel 2,2019 - 2019,106,0,1,"2,3,4-12",0,I am unsure,river-rine vegetation
+137387343,512622805,39.61247123,-4.213982378,FALSE,1,fisundwa@rcmrd.org,13:01.6,447.2,Sentinel 2,2018 - 2018,107,"2-6,8-12",0,"1,7",0,Open water - marine,n/a
+137387344,512622806,29.58327332,-4.318675329,FALSE,1,fisundwa@rcmrd.org,18:24.3,334.9,Sentinel 2,2018 - 2018,108,"1-3,5-9,11",0,"4,10,12",0,Open water - freshwater,n/a
+137387345,512622807,30.65192266,-4.523386273,FALSE,1,fisundwa@rcmrd.org,21:16.5,184.4,Sentinel 2,2018 - 2018,109,"1,2,5-12",0,"3,4",0,Open water - freshwater,n/a
+137387346,512622808,29.64576925,-4.555701722,FALSE,1,fisundwa@rcmrd.org,32:16.0,671.6,Sentinel 2,2018 - 2018,110,"1,2,3,5-9",0,"4,10,11,12",0,Open water - freshwater,n/a
+137387347,512622809,39.45731963,-4.560419424,FALSE,1,fisundwa@rcmrd.org,35:12.3,188.5,Sentinel 2,2018 - 2018,111,"2-6,8,9,11","1,7,10,12",0,0,Open water - marine,n/a
+137387348,512622810,34.93678056,-4.568911363,FALSE,1,fisundwa@rcmrd.org,39:30.9,270.8,Sentinel 2,2018 - 2018,112,"1,2,4-12",3,0,0,Open water - freshwater,n/a
+137387349,512622811,36.21685893,-4.580705886,FALSE,1,fisundwa@rcmrd.org,45:42.9,384.1,Sentinel 2,2018 - 2018,113,0,"1,2,5-12","3,4",0,Barren (Bare soil / Rocky Land),n/a
+137387350,512622812,39.31460504,-4.612080239,FALSE,1,fisundwa@rcmrd.org,51:07.9,337.1,Sentinel 2,2018 - 2018,114,1-Dec,0,0,,Wetlands - marine (e.g. mangroves),n/a
+137387351,512622813,35.21692401,-4.684505905,FALSE,1,fisundwa@rcmrd.org,55:50.5,294.8,Sentinel 2,2018 - 2018,115,"1-9,12",9-Nov,0,0,Open water - freshwater,n/a
+137387352,512622814,34.82982235,-4.709750438,FALSE,1,fisundwa@rcmrd.org,00:10.6,272.2,Sentinel 2,2018 - 2018,116,"2-8,12","9,10",1,11,Open water - freshwater,n/a
+137387353,512622815,33.82646726,-4.751747993,FALSE,1,fisundwa@rcmrd.org,05:36.2,337.8,Sentinel 2,2018 - 2018,117,2-Dec,0,1,0,Wetlands - freshwater,n/a
+137387354,512622816,39.21915106,-4.795399778,FALSE,1,fisundwa@rcmrd.org,50:46.9,148.8,Sentinel 2,2018 - 2018,118,1-Dec,0,0,0,Open water - marine,n/a
+137387355,512622817,29.60970195,-4.813569158,FALSE,1,fisundwa@rcmrd.org,46:36.4,3361.4,Sentinel 2,2018 - 2018,119,"2,4-9",0,"1,3,10-12",0,Open water - freshwater,n/a
+137387356,512622818,34.72908264,-4.832682912,FALSE,1,fisundwa@rcmrd.org,53:10.2,406,Sentinel 2,2018 - 2018,120,"2-8,12","10,11",1,0,Open water - freshwater,n/a
+137387357,512622819,39.1476383,-4.89781521,FALSE,1,fisundwa@rcmrd.org,01:46.9,528.8,Sentinel 2,2018 - 2018,121,1-Dec,0,0,0,Open water - marine,n/a
+137387358,512622820,30.89755344,-4.901827183,FALSE,1,fisundwa@rcmrd.org,06:05.3,270.7,Sentinel 2,2018 - 2018,122,"2-10,12",1,3,11,Open water - freshwater,n/a
+137387359,512622821,31.2050583,-4.97522685,FALSE,1,fisundwa@rcmrd.org,11:37.6,342.9,Sentinel 2,2018 - 2018,123,"2,4-7,9-12",8,"1,3",0,Open water - freshwater,n/a
+137387360,512622822,39.8133288,-4.978295176,FALSE,1,fisundwa@rcmrd.org,22:34.4,668.9,Sentinel 2,2018 - 2018,124,"2,3,5,8,9","1,10",4,"6,7,11,12",Wetlands - marine (e.g. mangroves),n/a
+137387361,512622823,31.0188142,-4.981127489,FALSE,1,fisundwa@rcmrd.org,25:03.4,161.1,Sentinel 2,2018 - 2018,125,"1,2,4-12",0,3,0,Open water - freshwater,n/a
+137387362,512622824,34.85376357,-5.012283721,FALSE,1,fisundwa@rcmrd.org,41:14.5,983,Sentinel 2,2018 - 2018,126,"2-8,12",9-Nov,1,0,Open water - freshwater,n/a
+137387363,512622825,35.65315184,-5.052411302,FALSE,1,fisundwa@rcmrd.org,19:49.7,317.7,Sentinel 2,2019 - 2019,127,0,"2,3,6-11","4,5,12",0,Shrubs,n/a
+137387364,512622826,37.07065907,-5.116620472,FALSE,1,fisundwa@rcmrd.org,39:05.2,1167.4,Sentinel 2,2018 - 2018,128,0,"1,2,5,7-10,12","3,4,6,11",0,Shrubs,n/a
+137387365,512622827,31.08566308,-5.234196221,FALSE,1,fisundwa@rcmrd.org,42:15.1,202,Sentinel 2,2018 - 2018,129,"1,2,4-12",0,3,0,Open water - freshwater,n/a
+137387366,512622828,39.8431776,-5.245529952,FALSE,1,fisundwa@rcmrd.org,44:50.0,167.1,Sentinel 2,2018 - 2018,130,1-Dec,0,0,0,Open water - marine,n/a
+137387367,512622829,31.09654546,-5.25096077,FALSE,1,fisundwa@rcmrd.org,47:57.9,200.1,Sentinel 2,2018 - 2018,131,"1,2,4-12",0,3,0,Open water - freshwater,n/a
+137387368,512622830,33.63369374,-5.251669141,FALSE,1,fisundwa@rcmrd.org,59:31.1,705.5,Sentinel 2,2018 - 2018,132,0,1-Dec,0,0,Cultivated (Cropland/ Plantation)  ,n/a
+137387369,512622831,37.48823139,-5.363837818,FALSE,1,fisundwa@rcmrd.org,12:36.9,798,Sentinel 2,2018 - 2018,133,0,"1,2,5,6,8-12","3,4,7",0,Cultivated (Cropland/ Plantation)  ,n/a
+137387370,512622832,29.74713081,-5.424299129,FALSE,1,fisundwa@rcmrd.org,17:04.5,204.3,Sentinel 2,2018 - 2018,134,"1-9,12",0,"10,11",0,Open water - freshwater,n/a
+137387371,512622833,39.6109166,-5.454295792,FALSE,1,fisundwa@rcmrd.org,20:26.2,217,Sentinel 2,2018 - 2018,135,1-Oct,0,11,12,Open water - marine,n/a
+137387372,512622834,31.77405111,-5.731185353,FALSE,1,fisundwa@rcmrd.org,22:59.5,168.6,Sentinel 2,2018 - 2018,136,"2,3,5-12",0,4,1,Open water - freshwater,n/a
+137387373,512622835,29.93430768,-5.757888853,FALSE,1,fisundwa@rcmrd.org,25:00.1,135.9,Sentinel 2,2018 - 2018,137,"1-10,12",0,11,0,Open water - freshwater,n/a
+137387374,512622836,39.35906732,-5.803500314,FALSE,1,fisundwa@rcmrd.org,50:12.9,1528.1,Sentinel 2,2018 - 2018,138,"1-3,6,8,9,11,12",0,"4,5","7,10",Open water - marine,n/a
+137387375,512622837,31.39005869,-5.806336378,FALSE,1,fisundwa@rcmrd.org,52:58.0,180.4,Sentinel 2,2018 - 2018,139,"1,2,5-12",0,"3,4",0,Open water - freshwater,n/a
+137387376,512622838,35.93920287,-5.968251625,FALSE,1,fisundwa@rcmrd.org,57:16.5,273.9,Sentinel 2,2018 - 2018,140,"1-3,5-12",0,4,0,Open water - freshwater,n/a
+137387377,512622839,32.12508547,-6.001585904,FALSE,1,fisundwa@rcmrd.org,04:22.2,441,Sentinel 2,2018 - 2018,141,"1,2,3",9,"4,12","5,6,7,8,10,11",Open water - freshwater,n/a
+137387378,512622840,35.20479794,-6.034449298,FALSE,1,fisundwa@rcmrd.org,11:07.3,420.4,Sentinel 2,2018 - 2018,142,"1,2,5-10",11,"3,4",12,Open water - freshwater,n/a
+137387379,512622841,35.19422649,-6.064240814,FALSE,1,fisundwa@rcmrd.org,16:07.9,315.8,Sentinel 2,2018 - 2018,143,"1,2,5-10,12",0,"3,4,11",0,Open water - freshwater,n/a
+137387380,512622842,29.72598791,-6.07298942,FALSE,1,fisundwa@rcmrd.org,21:05.1,312.5,Sentinel 2,2018 - 2018,144,"1,2,6-10,12",0,"3,4,5,11",0,Open water - freshwater,n/a
+137387381,512622843,35.26014259,-6.117916879,FALSE,1,fisundwa@rcmrd.org,25:49.6,299.8,Sentinel 2,2018 - 2018,145,"1,2,5-12",0,"3,4",0,Open water - freshwater,n/a
+137387382,512622844,39.21479811,-6.152206096,FALSE,1,fisundwa@rcmrd.org,31:29.3,354.9,Sentinel 2,2018 - 2018,146,0,"1,3,4,6-8,10-11","2,5,9,12",0,Urban (Settlements/ roads)  ,n/a
+137387383,512622845,32.21214448,-6.16142908,FALSE,1,fisundwa@rcmrd.org,39:49.1,515.1,Sentinel 2,2018 - 2018,147,0,1-Dec,12,0,Shrubs,n/a
+137387384,512622846,39.4246725,-6.179402523,FALSE,1,fisundwa@rcmrd.org,56:56.5,1042.6,Sentinel 2,2018 - 2018,148,"3,7,11,12",2,"1,4,5,6,8,9,10",0,Open water - freshwater,n/a
+137387385,512622847,39.23096621,-6.259580801,FALSE,1,fisundwa@rcmrd.org,02:46.8,365.5,Sentinel 2,2018 - 2018,149,"2,3,4,6-8","1,9,10,11","5,12",0,Open water - marine,n/a
+137387386,512622848,31.11364634,-6.274719043,FALSE,1,fisundwa@rcmrd.org,07:43.9,311.8,Sentinel 2,2018 - 2018,150,0,1-Dec,0,0,Forest/woodlands,n/a
+137387387,512622849,30.20885449,-6.536158677,FALSE,1,fisundwa@rcmrd.org,10:28.1,179.5,Sentinel 2,2018 - 2018,151,2-Dec,0,1,0,Open water - freshwater,n/a
+137387388,512622850,30.22968646,-6.554854871,FALSE,1,fisundwa@rcmrd.org,14:43.5,270.6,Sentinel 2,2018 - 2018,152,2-Sep,0,1,"10,11,12",Open water - freshwater,n/a
+137387389,512622851,39.21013423,-6.649292951,FALSE,1,fisundwa@rcmrd.org,17:33.0,184.8,Sentinel 2,2018 - 2018,153,"1-4,6-12",0,5,0,Open water - marine,n/a
+137387390,512622852,38.71358695,-6.667993305,FALSE,1,fisundwa@rcmrd.org,21:32.0,254.4,Sentinel 2,2018 - 2018,154,"1-4,6-11",0,"5,12",0,Open water - freshwater,n/a
+137387391,512622853,30.45013231,-6.844852794,FALSE,1,fisundwa@rcmrd.org,28:32.8,436.1,Sentinel 2,2018 - 2018,155,2-Dec,0,1,0,Open water - freshwater,n/a
+137387392,512622854,39.39668925,-6.851009686,FALSE,1,fisundwa@rcmrd.org,32:55.6,278.1,Sentinel 2,2018 - 2018,156,"1-4,6-9,11,12",0,"5,10",0,Open water - marine,n/a
+137387393,512622855,35.92148014,-7.0163277,FALSE,1,fisundwa@rcmrd.org,36:08.4,207.9,Sentinel 2,2018 - 2018,157,"3,5-12","1,2",4,0,Open water - freshwater,n/a
+137387394,512622856,35.80612695,-7.086451091,FALSE,1,fisundwa@rcmrd.org,41:14.7,321.6,Sentinel 2,2018 - 2018,158,1-Dec,0,0,0,Open water - freshwater,n/a
+137387395,512622857,35.87857249,-7.12080586,FALSE,1,fisundwa@rcmrd.org,44:05.8,186.4,Sentinel 2,2018 - 2018,159,3-Nov,"1,2",12,0,Open water - freshwater,n/a
+137387396,512622858,30.52630895,-7.15397836,FALSE,1,fisundwa@rcmrd.org,30:34.3,122,Sentinel 2,2018 - 2018,160,2-Dec,0,1,0,Open water - freshwater,n/a
+137387397,512622859,30.57450233,-7.285743857,FALSE,1,fisundwa@rcmrd.org,48:57.4,306.8,Sentinel 2,2018 - 2018,161,2-Dec,0,1,0,Open water - freshwater,n/a
+137387398,512622860,30.64601508,-7.590656574,FALSE,1,fisundwa@rcmrd.org,51:30.1,168.1,Sentinel 2,2018 - 2018,162,2-Dec,0,0,0,Open water - freshwater,n/a
+137387399,512622861,30.73058669,-7.697401625,FALSE,1,fisundwa@rcmrd.org,55:17.6,242.8,Sentinel 2,2018 - 2018,163,2-Dec,0,1,0,Open water - freshwater,n/a
+137387400,512622862,38.17195554,-7.719702772,FALSE,1,fisundwa@rcmrd.org,58:52.2,229.9,Sentinel 2,2018 - 2018,164,3-Dec,"1,2",0,0,Open water - freshwater,n/a
+137387401,512622863,38.18656902,-7.735124449,FALSE,1,fisundwa@rcmrd.org,03:00.3,263.3,Sentinel 2,2018 - 2018,165,"1-8,10-12",0,9,n/a,Open water - freshwater,n/a
+137387402,512622864,37.1070373,-7.795155595,FALSE,1,fisundwa@rcmrd.org,12:54.9,609.9,Sentinel 2,2018 - 2018,166,"1,6,11,12","4,7","5,10","2,3,7,8,9",Open water - freshwater,n/a
+137387403,512622865,39.71290001,-7.816749873,FALSE,1,fisundwa@rcmrd.org,19:11.1,391.6,Sentinel 2,2018 - 2018,167,"1-3,6,12",0,"4,5,7,8,9,10",11,Open water - marine,n/a
+137387404,512622866,39.37896652,-7.830988453,FALSE,1,fisundwa@rcmrd.org,26:06.6,430.8,Sentinel 2,2018 - 2018,168,"1-4,6-9,11,12",0,"5,10",0,Open water - freshwater,n/a
+137387405,512622867,39.70295041,-7.840243784,FALSE,1,fisundwa@rcmrd.org,34:01.9,490.6,Sentinel 2,2018 - 2018,169,"1,2,5,6,7,11,12",0,"3,4,10","8,9",Open water - marine,n/a
+137387406,512622868,38.46173767,-7.849973964,FALSE,1,fisundwa@rcmrd.org,39:12.8,326.3,Sentinel 2,2018 - 2018,170,1-Nov,0,12,0,Open water - freshwater,n/a
+137387407,512622869,30.79930113,-7.874893729,FALSE,1,fisundwa@rcmrd.org,43:48.8,291.3,Sentinel 2,2018 - 2018,171,2-Dec,0,1,0,Open water - freshwater,n/a
+137387408,512622870,37.74256807,-7.875605744,FALSE,1,fisundwa@rcmrd.org,49:48.2,374.6,Sentinel 2,2018 - 2018,172,"3-8,10",0,"1,2,9,11,12",0,Open water - freshwater,n/a
+137387409,512622871,39.67092513,-7.89934025,FALSE,1,fisundwa@rcmrd.org,53:02.6,209.7,Sentinel 2,2018 - 2018,173,"1-3,5-11",0,"4,12",0,Open water - marine,n/a
+137387410,512622872,38.84479732,-7.905274084,FALSE,1,fisundwa@rcmrd.org,58:16.2,328.9,Sentinel 2,2018 - 2018,174,"1-8,10-12",0,9,0,Open water - freshwater,n/a
+137387411,512622873,32.37289273,-7.908597068,FALSE,1,fisundwa@rcmrd.org,01:43.9,223,Sentinel 2,2018 - 2018,175,3-Oct,0,"1,11","2,12",Open water - freshwater,n/a
+137387412,512622874,39.38518502,-7.912394795,FALSE,1,fisundwa@rcmrd.org,18:09.3,1000.7,Sentinel 2,2018 - 2018,176,"1,3,4,7-12",0,"2,5,6",0,Open water - freshwater,n/a
+137387413,512622875,38.69524237,-7.972925681,FALSE,1,fisundwa@rcmrd.org,36:03.5,1089.4,Sentinel 2,2018 - 2018,177,"2,4-10,12",1,"3,11",0,Open water - freshwater,n/a
+137387414,512622876,39.38052115,-8.052697356,FALSE,1,fisundwa@rcmrd.org,33:08.6,169.7,Sentinel 2,2018 - 2018,178,"3,4,6-11",0,"1,2,5,12",0,Open water - freshwater,n/a
+137387415,512622877,36.79953244,-8.163120933,FALSE,1,fisundwa@rcmrd.org,35:02.9,129.6,Sentinel 2,2018 - 2018,179,"1,2,5-9,11,12",0,"3,4,10",0,Open water - freshwater,n/a
+137387416,512622878,34.55030074,-8.168346008,FALSE,1,fisundwa@rcmrd.org,32:20.3,791.8,Sentinel 2,2019 - 2019,180,"1-9,12",0,0,"10,11",Open water - freshwater,n/a
+137387417,512622879,37.58306353,-8.228914245,FALSE,1,fisundwa@rcmrd.org,37:39.7,171.7,Sentinel 2,2018 - 2018,181,2-Oct,0,"1,11,12",0,Open water - freshwater,n/a
+137387418,512622880,39.25832761,-8.276187483,FALSE,1,fisundwa@rcmrd.org,40:17.0,172.7,Sentinel 2,2018 - 2018,182,"1,3,4,6-9,11,12",0,"2,5,10",0,Open water - freshwater,n/a
+137387419,512622881,37.50533227,-8.336296617,FALSE,1,fisundwa@rcmrd.org,43:07.8,186.2,Sentinel 2,2018 - 2018,183,"2-4,6-10",0,"1,5,11,12",0,Open water - freshwater,n/a
+137387420,512622882,31.98081626,-8.402355769,FALSE,1,fisundwa@rcmrd.org,44:47.7,115.3,Sentinel 2,2018 - 2018,184,2-Dec,0,1,0,Open water - freshwater,n/a
+137387421,512622883,37.18974336,-8.458443356,FALSE,1,fisundwa@rcmrd.org,47:41.4,189,Sentinel 2,2018 - 2018,185,2-Jun,0,"1,9,12","7,8,10,11",Open water - freshwater,n/a
+137387422,512622884,37.39744128,-8.483400132,FALSE,1,fisundwa@rcmrd.org,50:52.5,206.5,Bing Basemaps,,186,0,"2-4,6-10","1,5,11,12",0,Forest/woodlands,n/a
+137387423,512622885,31.63755502,-8.524760554,FALSE,1,fisundwa@rcmrd.org,52:34.4,117.2,Sentinel 2,2018 - 2018,187,2-Dec,0,1,0,Open water - freshwater,n/a
+137387424,512622886,33.07091943,-8.596557394,FALSE,1,fisundwa@rcmrd.org,54:44.5,145.5,Sentinel 2,2018 - 2018,188,2-Jul,8-Dec,1,0,Open water - freshwater,n/a
+137387425,512622887,32.31474974,-8.634600816,FALSE,1,fisundwa@rcmrd.org,56:28.5,119.4,Sentinel 2,2018 - 2018,189,2-Dec,0,1,0,Open water - freshwater,n/a
+137387426,512622888,38.98968838,-8.826301721,FALSE,1,fisundwa@rcmrd.org,59:24.2,191.1,Sentinel 2,2018 - 2018,190,"2,6-10","3,5","1,11,12",4,Open water - freshwater,n/a
+137387427,512622889,39.43026915,-8.872695466,FALSE,1,fisundwa@rcmrd.org,01:12.1,123.3,Sentinel 2,2018 - 2018,191,1-Dec,0,0,0,Open water - freshwater,n/a
+137387428,512622890,35.91215239,-8.998820236,FALSE,1,fisundwa@rcmrd.org,05:21.6,264.9,Sentinel 2,2018 - 2018,192,"1-2,5-8,11,12",0,"3,4,9,10",0,Open water - freshwater,n/a
+137387429,512622891,33.55067676,-9.00905487,FALSE,1,fisundwa@rcmrd.org,08:29.8,203.3,Sentinel 2,2018 - 2018,193,"2,5,6,8-10,12",0,"1,3,4,7,11",0,Open water - freshwater,n/a
+137387430,512622892,37.56813912,-9.073325318,FALSE,1,fisundwa@rcmrd.org,15:10.3,415.9,Bing Basemaps,,194,"2,3,4,5,6,7,8,9,10",0,"1,11,12",0,I am unsure,n/a
+137387431,512622893,39.48561381,-9.083800081,FALSE,1,fisundwa@rcmrd.org,20:17.4,322,Sentinel 2,2018 - 2018,195,"2-4,6,11,12","8,9",1,"5,7,10",Open water - marine,n/a
+137387432,512622894,39.613404,-9.090942136,FALSE,1,fisundwa@rcmrd.org,23:02.3,180.3,Sentinel 2,2018 - 2018,196,"1-4,6-12",0,0,5,Open water - marine,n/a
+137387433,512622895,35.46442034,-9.505899182,FALSE,1,fisundwa@rcmrd.org,26:23.4,216.4,Sentinel 2,2018 - 2018,197,"1,2,4-6,8,10,12",0,"3,9,11",7,Open water - freshwater,n/a
+137387434,512622896,33.94772802,-9.568112983,FALSE,1,fisundwa@rcmrd.org,28:01.5,113,Sentinel 2,2018 - 2018,198,2-Dec,0,1,0,Open water - freshwater,n/a
+137387435,512622897,34.4243761,-9.843083996,FALSE,1,fisundwa@rcmrd.org,31:47.1,241,Bing Basemaps,,199,0,"1,2,7,8-11","3,4,5,6,12",0,Forest/woodlands,n/a
+137387436,512622898,34.4106954,-9.881258774,FALSE,1,fisundwa@rcmrd.org,37:05.0,300.1,Sentinel 2,2019 - 2019,200,"1,3,5-11",0,"2,4,12",0,Open water - freshwater,n/a

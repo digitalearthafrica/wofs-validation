@@ -1,0 +1,6 @@
+ACTUAL,NoWater,Water,Total,Producer's
+NoWater,293.0,18.0,311.0,94.21
+Water,45.0,261.0,306.0,85.29
+Total,338.0,279.0,617.0,
+User's,86.69,93.55,,89.79
+F-score,0.9,0.85,,
