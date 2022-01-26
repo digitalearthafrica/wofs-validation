@@ -12,9 +12,17 @@ Numbering convention is as follows:
  ## Notebook summary
 
  - `01_Inspect_CEO`
- - `02_Processing`
- - `03_Accuracy_Assessment-AEZ`
- - `03_Accuracy_Assessment-Continental`
- - `04_Accuracy_Assessment_Seasonal`
+ - `02a_Processing`
+ - `02b_Convert_Institution_to_AEZ` Validation points were collected by different institutions; here they are compiled into AEZs
+ - `03_Accuracy_Assessment-AEZ` Accuracy assessments per AEZ
+ - `03_Accuracy_Assessment-Continental` Accuracy assessment for all Africa
+ - `03_Plot_accuracy_maps` Show producer's / user's / overall accuracy for each AEZ on a single plot
+ - `04_Accuracy_Assessment_Seasonal` Accuracy for a manually-defined "season"
  - `04_Monthly_Accuracy` Accuracy calculated per AEZ per month. Accuracy is shown to be temporally affected likely due to weather conditions and lack of clear observations
+ - `04_Wet-dry_season_accuracy` Extract and plot seasonal accuracy
+ - `05_Compare_provisional_vs_production` Compares provisional C2 WOfS to production (not-provisional) C2 WOfS and identifies validation points where they have been differently identified by the products
  - `05_Monthly_climate_data` CHPclim climate data is used to calculate long-term average precipitation for each month per AEZ (i.e. January long term average, February long term average)
+ - `06_Processing_S2`
+ - `06_s2_Monthly_Accuracy`
+ - `06_s2_Monthly_valid_data`
+ - `07_ObservationPlotting` Overview of validation analysis and observation plotting

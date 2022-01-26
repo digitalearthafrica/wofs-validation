@@ -1,10 +1,10 @@
 # wofs-validation
 Code and data for validation of WOfS in Africa. 
- - 01) Stratified sampling for validation
- - 02) Validation data pre-processing, analysis, and plots
- - 03) Figures for paper and further data visualisations
+ - 01 ) Stratified sampling for validation
+ - 02 ) Validation data pre-processing, analysis, and plots
+ - 03 ) Figures for paper and further data visualisations
  
-The actual validation data was collected externally using Collect Earth Online. This chronologically happened between 01) and 02), during 2020 and 2021.
+The actual validation data was collected externally using the Collect Earth Online tool. This chronologically happened between 01) and 02), during 2020 and 2021.
 
 ## 01_ndwi_sampling
 Stratified sampling of WOfS, used for the product validation process.

@@ -17,5 +17,5 @@ This folder contains figures generated for the WOfS paper and general use. It co
 # Figure gallery
 
 |   2020 vs all-time, 1km res, water detected 0-75%   |  2020 vs all-time, 1km res, water detected 10-50%   |  2020 vs all-time, 1km res, water detected 20-75%   | 2020 vs all-time, 1km res, water detected 60-100%  |
-|------------|-------------------|------------------|
+|------------|-------------------|------------------|--------------------|
 | ![](./wofs_pc_change_2020_vs_alltime_0-75.png)     | ![](./wofs_pc_change_2020_vs_alltime_10-50.png)     | ![](./wofs_pc_change_2020_vs_alltime_20-75.png)   | ![](./wofs_pc_change_2020_vs_alltime_60-100.png) |
