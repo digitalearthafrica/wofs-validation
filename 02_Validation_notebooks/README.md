@@ -13,9 +13,8 @@ Numbering convention is as follows:
 
  - `01_Inspect_CEO`
  - `02a_Processing`
- - `02b_Convert_Institution_to_AEZ` Validation points were collected by different institutions; here they are compiled into AEZs
+ - `02b_Convert_Institution_to_AEZ` Validation points were collected by different institutions; here they are compiled into AEZs and cleaned
  - `03_Accuracy_Assessment-AEZ` Accuracy assessments per AEZ
- - `03_Accuracy_Assessment-Continental` Accuracy assessment for all Africa
  - `03_Plot_accuracy_maps` Show producer's / user's / overall accuracy for each AEZ on a single plot
  - `04_Accuracy_Assessment_Seasonal` Accuracy for a manually-defined "season"
  - `04_Monthly_Accuracy` Accuracy calculated per AEZ per month. Accuracy is shown to be temporally affected likely due to weather conditions and lack of clear observations
