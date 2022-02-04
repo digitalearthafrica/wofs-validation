@@ -25,8 +25,6 @@ Raw and pre-processed data collected from the validation analysts.
  
 ## 02_Validation_notebooks
 Series of notebooks conducting the pre-processing, analysis, and plotting of WOfS data.
- 
-Re-running some of these notebooks will require a file path update to account for folder name changes. Most notably `Results` --> `02_Validation_results` and `Data` --> `02_Validation_data`.
 
 - `Plots` folder: Seasonal accuracy plots per AEZ; AEZ overall/producer's/user's accuracy maps per AEZ for provisional (beta) Collection 2 WOfS and non-provisional (production) Collection 2 WOfS; accuracy difference plot between the two
 
@@ -38,7 +36,7 @@ Figures, and code/files to produce figures for academic or general use. Folder R
 
 ## Repository convention
  - `02_Validation_results/Beta` contain results from the Landsat Collection 2 Provisional WOfS data
- - `02_Validation_results/ls_wofs` contains results from operational (Collection 2 not-Provisional) WOfS data
+ - `02_Validation_results/wofs_ls` contains results from operational (Collection 2 not-Provisional) WOfS data
  - "CEO" refers to Collect Earth Online, the spatial analysis tool used to consolidate validation data
  - `01_ndwi_sampling` folder contains all stratified sampling code (originally from the `sandbox-notebooks` repository)
 
